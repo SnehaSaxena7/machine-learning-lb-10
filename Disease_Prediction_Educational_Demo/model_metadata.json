@@ -1,0 +1,24 @@
+{
+  "best_model": "Logistic Regression",
+  "target": "label",
+  "features": [
+    "age",
+    "sex",
+    "symptom_duration_days",
+    "fever",
+    "cough",
+    "sore_throat",
+    "runny_nose",
+    "sneezing",
+    "itchy_eyes",
+    "headache",
+    "nausea",
+    "vomiting",
+    "diarrhea",
+    "body_ache",
+    "fatigue",
+    "light_sensitivity"
+  ],
+  "test_size": 0.2,
+  "random_state": 42
+}

@@ -1,0 +1,11 @@
+Best model: Logistic Regression\n\n                  precision    recall  f1-score   support
+
+     Common Cold       0.80      0.80      0.80        60
+Flu-like Illness       0.91      0.80      0.85        60
+ Gastroenteritis       0.88      1.00      0.94        60
+        Migraine       0.96      0.90      0.93        60
+Seasonal Allergy       0.86      0.90      0.88        60
+
+        accuracy                           0.88       300
+       macro avg       0.88      0.88      0.88       300
+    weighted avg       0.88      0.88      0.88       300

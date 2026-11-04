@@ -1,0 +1,19 @@
+{
+  "best_model": "Gradient Boosting",
+  "target": "Loan_Status",
+  "features": [
+    "Gender",
+    "Married",
+    "Dependents",
+    "Education",
+    "Self_Employed",
+    "ApplicantIncome",
+    "CoapplicantIncome",
+    "LoanAmount",
+    "Loan_Amount_Term",
+    "Credit_History",
+    "Property_Area"
+  ],
+  "test_size": 0.2,
+  "random_state": 42
+}

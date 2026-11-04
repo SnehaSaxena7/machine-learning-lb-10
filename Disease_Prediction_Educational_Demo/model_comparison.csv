@@ -1,0 +1,4 @@
+model,accuracy,precision_weighted,recall_weighted,f1_weighted
+Logistic Regression,0.88,0.8818883779927065,0.88,0.8792281570740638
+Random Forest,0.88,0.8806486859626333,0.88,0.879183007962838
+Gradient Boosting,0.88,0.8815787728026534,0.88,0.878730380431936

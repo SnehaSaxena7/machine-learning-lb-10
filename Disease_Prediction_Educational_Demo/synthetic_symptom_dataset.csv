@@ -1,0 +1,1501 @@
+age,sex,symptom_duration_days,fever,cough,sore_throat,runny_nose,sneezing,itchy_eyes,headache,nausea,vomiting,diarrhea,body_ache,fatigue,light_sensitivity,label
+39,Female,4,0,0,0,0,1,0,0,0,0,0,0,0,0,Seasonal Allergy
+37,Male,1,1,0,0,0,0,0,0,1,0,1,1,1,0,Gastroenteritis
+38,Male,2,0,0,0,0,0,0,1,1,0,0,0,1,0,Migraine
+37,Male,2,0,0,0,0,0,0,0,1,1,1,0,0,0,Gastroenteritis
+27,Female,8,0,0,0,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+28,Male,4,0,0,0,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+26,Female,10,1,0,0,0,0,0,0,1,1,0,0,0,0,Gastroenteritis
+49,Male,1,0,0,0,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+32,Male,6,0,0,0,0,0,0,1,0,0,0,0,1,1,Migraine
+28,Male,5,1,1,1,0,0,0,1,0,0,0,1,1,0,Flu-like Illness
+40,Female,9,0,0,0,0,0,0,0,1,1,0,0,0,0,Gastroenteritis
+31,Male,7,0,0,0,0,0,0,1,1,0,0,0,1,1,Migraine
+4,Female,9,0,0,0,0,0,0,1,0,0,0,0,0,1,Migraine
+53,Male,6,0,0,0,0,0,0,1,1,0,0,0,1,1,Migraine
+28,Female,3,0,1,1,0,0,0,0,0,0,1,0,1,0,Common Cold
+23,Other,2,1,0,0,0,0,0,0,1,0,0,0,1,0,Gastroenteritis
+34,Female,1,0,1,0,1,1,1,0,0,0,0,0,1,0,Seasonal Allergy
+54,Male,2,0,0,0,0,0,0,1,1,1,0,0,0,1,Migraine
+44,Female,6,1,0,0,0,0,0,0,1,0,1,0,1,0,Gastroenteritis
+1,Male,1,0,0,0,0,1,1,0,0,0,0,0,1,0,Seasonal Allergy
+45,Male,2,0,0,0,0,0,0,0,1,0,0,1,1,0,Flu-like Illness
+39,Male,5,1,0,0,0,0,0,0,1,1,0,0,0,0,Gastroenteritis
+44,Female,9,0,1,1,1,0,0,0,0,0,0,1,1,0,Common Cold
+27,Male,2,1,0,1,1,0,0,0,0,0,0,1,1,0,Flu-like Illness
+50,Female,8,1,0,0,0,0,0,1,0,0,0,0,1,0,Flu-like Illness
+37,Female,4,0,0,0,0,0,0,1,0,0,0,0,0,1,Migraine
+15,Male,8,0,0,0,0,0,0,1,1,0,0,0,0,1,Migraine
+20,Female,4,0,1,1,0,0,0,0,0,0,0,0,0,0,Common Cold
+63,Male,1,1,1,0,0,0,0,1,0,0,0,1,1,0,Flu-like Illness
+42,Female,8,0,0,0,1,1,1,0,0,0,0,0,1,0,Seasonal Allergy
+17,Male,7,0,1,1,0,1,0,1,0,0,0,0,0,0,Common Cold
+28,Female,5,0,1,0,1,1,0,1,0,0,0,0,0,0,Common Cold
+43,Male,4,1,1,0,0,0,0,0,0,0,0,1,1,0,Flu-like Illness
+5,Female,2,0,0,0,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+26,Female,8,1,0,1,1,0,1,0,0,0,0,0,0,0,Common Cold
+34,Female,5,1,0,0,0,0,0,0,1,0,0,1,1,0,Flu-like Illness
+46,Female,1,0,0,0,0,0,0,1,1,1,1,0,1,0,Gastroenteritis
+54,Male,3,0,0,0,0,0,0,0,1,1,0,0,1,0,Gastroenteritis
+26,Female,8,0,1,1,1,0,0,1,0,0,0,0,0,0,Common Cold
+16,Male,2,0,0,0,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+12,Male,3,0,0,0,0,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+34,Female,5,1,0,0,0,0,0,0,0,0,0,1,1,0,Flu-like Illness
+22,Female,1,0,0,0,1,1,1,0,1,0,0,0,0,0,Seasonal Allergy
+29,Female,3,1,1,0,1,1,0,1,1,0,0,1,1,0,Flu-like Illness
+1,Male,10,1,1,1,1,0,0,0,0,0,0,0,1,0,Common Cold
+31,Female,3,1,1,1,0,1,0,1,1,0,0,1,1,0,Flu-like Illness
+50,Male,5,0,0,1,0,1,0,1,0,0,1,0,1,0,Common Cold
+60,Male,1,1,1,0,0,0,0,1,0,0,0,1,0,0,Flu-like Illness
+18,Male,6,0,1,0,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+32,Male,7,1,0,0,0,0,1,0,1,0,1,0,0,0,Gastroenteritis
+21,Female,3,1,0,0,1,1,0,0,0,0,0,0,0,0,Seasonal Allergy
+21,Male,8,0,0,0,0,0,0,0,1,0,1,1,0,0,Gastroenteritis
+15,Female,9,0,1,0,0,0,0,0,0,0,0,0,0,0,Common Cold
+43,Female,1,0,0,0,1,0,1,0,0,0,0,0,0,0,Seasonal Allergy
+49,Male,2,1,0,0,0,0,0,1,0,0,0,1,0,0,Flu-like Illness
+55,Male,7,1,0,1,0,0,0,0,0,0,0,1,0,0,Flu-like Illness
+36,Female,9,1,0,0,0,0,0,0,0,0,0,1,1,0,Flu-like Illness
+6,Male,1,1,0,1,1,0,0,1,0,0,0,0,0,0,Common Cold
+34,Other,2,0,0,0,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+45,Male,7,1,1,1,0,0,0,1,1,0,0,1,1,0,Flu-like Illness
+25,Male,1,0,0,0,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+14,Other,9,0,0,1,0,1,0,0,0,0,0,0,0,0,Common Cold
+16,Female,7,0,0,0,1,1,1,1,0,0,0,0,0,0,Seasonal Allergy
+36,Female,6,0,0,0,0,0,0,1,1,0,0,0,0,1,Migraine
+24,Male,4,0,0,0,0,0,1,0,0,0,0,0,0,0,Seasonal Allergy
+29,Male,1,0,0,0,0,0,0,0,1,1,1,0,1,0,Gastroenteritis
+32,Male,1,0,0,0,1,0,0,1,0,0,0,0,1,0,Common Cold
+19,Female,1,0,0,0,0,1,0,0,0,0,0,0,0,0,Seasonal Allergy
+38,Male,4,0,0,0,0,0,0,1,0,0,0,0,1,1,Migraine
+40,Male,9,1,0,1,1,0,1,0,0,0,0,1,0,0,Flu-like Illness
+23,Male,3,0,0,0,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+20,Male,4,0,0,0,0,0,0,1,1,1,0,0,0,1,Migraine
+40,Male,9,0,0,0,0,0,0,1,1,0,0,0,1,1,Migraine
+33,Male,3,1,0,0,0,0,0,0,0,0,0,1,1,0,Flu-like Illness
+30,Female,4,1,1,0,1,1,1,1,0,0,0,0,0,0,Seasonal Allergy
+26,Male,2,1,0,1,0,0,0,1,1,0,0,1,1,1,Flu-like Illness
+38,Male,3,1,1,0,0,0,0,0,0,0,0,1,0,0,Flu-like Illness
+36,Male,6,0,0,1,0,0,0,0,1,0,0,1,0,0,Migraine
+29,Male,8,0,0,0,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+37,Male,9,1,1,1,0,0,0,1,0,0,0,0,0,0,Common Cold
+46,Female,10,0,0,0,0,0,0,1,0,0,0,1,1,0,Flu-like Illness
+33,Female,2,1,0,0,0,0,0,0,0,0,0,0,1,0,Flu-like Illness
+8,Female,8,0,1,0,0,0,0,0,0,0,0,0,0,0,Common Cold
+55,Female,2,0,0,0,0,0,0,0,0,1,1,0,1,0,Gastroenteritis
+29,Male,1,0,0,0,0,0,0,1,0,0,0,0,0,1,Migraine
+20,Male,9,1,1,1,1,0,1,1,1,0,0,0,0,0,Common Cold
+55,Male,10,0,0,1,1,1,0,0,0,0,0,0,1,0,Seasonal Allergy
+14,Male,3,1,0,0,1,0,0,1,1,1,0,1,1,0,Flu-like Illness
+5,Male,3,0,1,1,0,0,0,0,0,0,0,0,1,0,Flu-like Illness
+16,Female,2,0,0,0,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+9,Male,4,0,1,0,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+29,Male,10,0,0,0,0,0,0,1,1,0,0,1,0,1,Migraine
+33,Female,3,0,0,0,0,0,0,1,1,0,0,0,1,1,Migraine
+35,Female,4,0,0,0,0,0,0,1,1,0,0,0,0,1,Migraine
+26,Female,1,0,0,0,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+41,Male,4,1,1,1,0,0,0,0,0,0,0,1,1,0,Flu-like Illness
+25,Male,10,0,0,1,0,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+18,Male,8,0,0,0,0,0,0,1,1,0,1,0,0,0,Gastroenteritis
+35,Female,7,1,1,0,0,0,0,1,1,0,0,1,1,0,Flu-like Illness
+47,Male,5,1,0,1,0,0,0,1,1,0,0,1,0,0,Flu-like Illness
+48,Female,8,0,1,1,1,0,0,0,0,0,0,1,0,0,Common Cold
+2,Female,3,0,1,1,1,0,0,0,0,0,0,0,0,0,Common Cold
+39,Male,1,1,1,1,0,0,0,1,1,0,0,1,0,0,Flu-like Illness
+20,Male,1,1,0,1,0,0,0,0,0,0,0,1,0,0,Flu-like Illness
+52,Male,3,0,0,0,0,0,0,1,1,1,0,0,0,1,Migraine
+51,Male,4,1,0,0,0,0,0,1,0,0,0,1,0,0,Flu-like Illness
+28,Male,7,1,1,0,0,0,0,1,0,0,0,1,1,0,Flu-like Illness
+32,Male,8,0,1,0,0,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+32,Female,2,0,0,0,0,0,0,1,0,1,0,1,1,0,Gastroenteritis
+50,Male,8,0,0,1,0,0,0,0,0,0,0,0,0,0,Flu-like Illness
+38,Other,1,0,0,0,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+36,Female,6,1,1,0,0,0,0,1,0,0,0,1,1,0,Flu-like Illness
+49,Female,5,0,1,1,1,0,0,0,0,0,0,0,1,1,Common Cold
+18,Female,3,0,0,0,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+18,Male,1,1,0,0,0,0,0,0,0,0,0,1,1,0,Flu-like Illness
+50,Male,3,0,0,0,0,0,0,1,1,0,0,0,0,1,Migraine
+36,Female,7,0,0,0,0,0,0,0,1,1,1,0,0,0,Gastroenteritis
+17,Male,5,1,0,0,0,0,0,0,0,0,0,0,1,0,Gastroenteritis
+20,Female,9,0,0,0,0,1,0,0,0,1,0,0,1,0,Common Cold
+38,Female,2,0,0,0,0,0,0,0,0,0,0,0,0,0,Gastroenteritis
+1,Female,6,0,0,0,0,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+26,Male,2,0,1,1,1,0,0,1,0,0,0,0,1,0,Common Cold
+42,Other,7,1,1,0,1,0,0,1,0,0,0,1,1,0,Flu-like Illness
+40,Female,6,0,1,1,1,0,0,0,0,1,1,1,0,0,Common Cold
+22,Female,5,0,0,0,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+23,Male,1,1,0,0,0,0,0,0,0,0,1,0,0,0,Gastroenteritis
+44,Female,6,1,0,0,0,0,0,0,1,0,1,1,1,0,Gastroenteritis
+31,Male,3,0,0,0,0,0,0,0,0,0,0,0,0,1,Migraine
+31,Female,10,0,0,0,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+38,Female,8,0,0,0,0,0,0,1,1,0,0,1,0,0,Migraine
+42,Male,6,0,0,0,0,0,0,1,0,1,0,0,0,0,Gastroenteritis
+19,Male,6,0,0,0,0,0,0,1,1,0,1,0,1,0,Gastroenteritis
+39,Male,5,1,0,0,0,0,0,0,0,0,0,1,0,0,Flu-like Illness
+41,Female,6,0,1,1,1,0,0,0,0,0,0,0,1,0,Common Cold
+36,Female,5,0,0,0,0,1,0,0,0,0,0,0,0,0,Seasonal Allergy
+19,Male,7,0,1,1,0,1,0,0,0,1,0,0,0,0,Common Cold
+45,Female,8,0,0,1,0,0,0,0,0,0,0,1,0,0,Flu-like Illness
+13,Female,7,0,1,1,1,0,0,0,0,0,0,0,0,0,Common Cold
+27,Male,3,1,0,1,1,0,0,1,0,0,0,1,1,0,Flu-like Illness
+1,Female,7,1,1,0,0,1,0,1,0,1,0,1,1,0,Flu-like Illness
+26,Male,1,0,0,0,0,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+25,Male,1,0,0,0,1,0,1,0,0,0,0,0,0,0,Seasonal Allergy
+39,Male,3,0,0,0,0,0,0,0,1,1,1,0,0,0,Gastroenteritis
+42,Female,2,0,0,0,0,0,0,1,1,0,0,0,1,1,Migraine
+30,Male,3,0,0,0,1,1,0,0,0,0,0,0,0,1,Common Cold
+15,Other,8,0,0,0,0,0,0,1,0,0,0,0,1,1,Migraine
+45,Female,5,1,0,0,1,0,0,1,0,0,0,1,0,0,Flu-like Illness
+30,Male,4,0,0,0,1,1,1,1,0,0,0,0,0,0,Seasonal Allergy
+18,Male,3,0,0,0,0,0,0,1,1,0,0,0,0,1,Migraine
+44,Male,4,0,0,0,0,0,0,1,1,0,0,0,0,1,Migraine
+31,Male,7,0,0,0,0,0,0,0,1,1,1,0,1,0,Gastroenteritis
+43,Male,4,0,0,0,0,0,0,0,1,1,0,0,0,0,Gastroenteritis
+13,Female,6,0,1,1,1,0,0,0,0,0,0,0,1,0,Common Cold
+11,Male,8,0,1,0,1,0,1,0,0,0,0,0,1,0,Seasonal Allergy
+1,Male,9,0,0,0,1,1,1,0,0,0,0,0,1,0,Seasonal Allergy
+16,Female,3,0,1,1,1,0,0,0,0,0,0,1,0,0,Common Cold
+43,Male,7,0,1,1,1,0,1,0,0,0,0,1,0,0,Common Cold
+37,Female,1,0,0,1,1,1,0,0,0,0,0,0,0,0,Common Cold
+17,Male,6,1,0,0,0,0,0,1,1,1,1,0,1,0,Gastroenteritis
+31,Female,3,1,0,0,0,0,0,0,1,0,0,0,0,0,Gastroenteritis
+28,Female,9,0,0,0,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+23,Male,2,1,0,0,0,0,0,0,0,0,0,1,0,0,Flu-like Illness
+25,Male,6,0,0,1,1,1,1,1,0,0,0,0,0,0,Seasonal Allergy
+47,Female,8,0,0,0,1,1,1,1,0,0,0,0,0,0,Seasonal Allergy
+31,Female,8,0,1,0,1,1,1,1,0,0,0,0,0,0,Seasonal Allergy
+1,Male,9,0,0,0,0,0,0,1,0,0,0,0,1,1,Migraine
+69,Female,7,0,1,0,0,0,0,1,0,0,0,0,1,0,Flu-like Illness
+38,Male,9,0,0,0,0,0,0,0,0,0,0,0,0,1,Migraine
+40,Male,7,0,0,1,0,0,0,0,1,0,0,1,1,0,Flu-like Illness
+26,Female,2,0,1,1,1,1,0,0,0,0,0,0,0,0,Common Cold
+33,Male,4,1,0,1,0,0,0,0,0,0,0,1,1,0,Flu-like Illness
+12,Female,6,1,0,0,0,0,0,1,0,1,0,1,1,0,Flu-like Illness
+69,Male,4,1,1,1,1,1,0,0,0,0,0,1,1,0,Common Cold
+51,Male,4,0,1,0,1,0,0,0,0,0,0,0,1,0,Common Cold
+31,Male,3,1,0,0,0,1,0,1,0,1,0,1,1,0,Gastroenteritis
+61,Other,6,1,1,1,1,0,0,0,0,0,0,1,0,0,Flu-like Illness
+30,Male,7,0,0,0,0,0,0,0,0,1,0,1,1,0,Flu-like Illness
+27,Male,9,0,0,0,0,0,0,0,0,0,0,0,0,1,Migraine
+3,Female,6,0,0,0,0,0,0,1,1,0,0,1,1,1,Migraine
+44,Female,2,0,0,0,1,0,0,0,0,0,0,0,0,0,Common Cold
+31,Male,10,0,1,1,1,0,0,1,0,0,0,0,0,0,Common Cold
+37,Male,10,0,0,0,0,0,0,0,1,0,0,0,0,1,Migraine
+28,Female,6,1,0,0,0,0,0,0,1,0,1,0,1,0,Gastroenteritis
+14,Male,5,1,0,0,0,0,0,1,1,0,0,0,0,1,Migraine
+48,Male,6,1,1,1,0,0,1,1,0,0,0,1,1,0,Flu-like Illness
+27,Female,8,0,0,0,0,0,0,1,1,0,1,0,0,0,Gastroenteritis
+20,Female,6,0,0,0,1,0,0,1,0,0,0,0,1,1,Migraine
+21,Female,9,0,0,1,1,1,1,1,0,0,0,0,0,0,Seasonal Allergy
+36,Male,3,0,0,0,0,0,0,0,1,1,0,0,0,0,Gastroenteritis
+11,Female,5,0,0,0,0,0,0,0,1,0,0,0,0,0,Gastroenteritis
+44,Male,4,0,0,0,0,0,0,0,1,0,1,1,1,0,Gastroenteritis
+16,Female,10,0,0,0,0,0,0,1,1,0,0,1,0,1,Migraine
+43,Female,2,0,1,1,0,0,0,0,0,0,0,1,1,0,Common Cold
+40,Female,5,1,1,0,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+12,Male,2,0,0,0,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+21,Male,10,0,0,0,0,0,0,0,1,1,1,1,1,0,Gastroenteritis
+49,Male,6,1,0,1,0,0,1,0,0,0,0,1,1,0,Flu-like Illness
+38,Male,9,0,0,0,0,0,0,1,1,0,0,0,0,1,Migraine
+32,Male,7,1,1,1,1,0,0,0,0,0,0,0,1,0,Common Cold
+16,Female,2,0,1,0,1,1,0,0,0,0,0,0,1,0,Common Cold
+25,Male,5,0,0,0,0,0,0,0,1,0,1,0,0,0,Gastroenteritis
+36,Male,5,0,1,0,1,0,0,0,0,0,0,0,1,0,Common Cold
+33,Male,6,0,1,0,1,0,0,0,0,0,0,0,0,0,Common Cold
+35,Male,7,0,0,1,1,0,0,1,1,0,0,1,1,0,Flu-like Illness
+42,Male,7,0,0,0,0,0,0,0,1,0,0,0,1,1,Migraine
+25,Male,5,0,1,0,0,1,0,1,1,0,0,1,0,0,Flu-like Illness
+21,Male,1,0,0,1,0,0,0,1,0,0,0,0,1,1,Migraine
+41,Female,4,1,0,0,0,0,0,1,1,0,0,1,1,0,Flu-like Illness
+28,Female,8,0,0,0,1,1,0,0,0,0,0,0,0,0,Seasonal Allergy
+23,Female,3,0,0,0,0,0,0,1,1,0,1,1,1,0,Gastroenteritis
+38,Female,3,0,0,0,0,0,0,0,1,0,1,0,0,0,Gastroenteritis
+35,Female,7,0,0,0,0,0,0,1,1,0,0,0,0,0,Gastroenteritis
+42,Male,8,0,1,1,1,0,0,0,0,1,0,0,1,0,Common Cold
+22,Male,3,0,0,0,1,1,0,1,0,0,0,0,1,0,Common Cold
+40,Female,4,0,1,0,0,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+42,Female,5,0,0,0,0,0,0,1,1,0,0,0,1,1,Migraine
+17,Male,6,0,1,1,1,0,0,0,0,0,0,1,1,0,Common Cold
+29,Male,1,0,0,0,0,1,1,0,1,0,0,0,0,1,Seasonal Allergy
+56,Female,5,1,1,1,0,0,0,0,1,0,1,1,1,0,Flu-like Illness
+12,Male,7,1,0,0,0,0,0,0,1,1,1,0,1,0,Gastroenteritis
+10,Male,2,0,0,0,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+23,Male,4,0,0,0,0,0,0,1,0,0,0,1,1,1,Migraine
+26,Female,2,0,0,0,0,0,0,1,0,0,0,1,0,0,Gastroenteritis
+42,Female,4,1,1,1,1,1,0,0,0,0,0,0,0,0,Common Cold
+13,Female,6,0,0,0,0,0,0,0,0,1,1,1,0,0,Gastroenteritis
+53,Male,8,0,0,0,0,0,0,0,0,0,1,1,0,0,Gastroenteritis
+25,Female,8,1,0,1,0,0,0,0,0,0,0,0,0,0,Common Cold
+43,Female,1,0,0,0,1,1,1,1,0,0,0,0,0,0,Seasonal Allergy
+34,Male,1,0,0,1,0,1,1,0,0,0,0,1,1,0,Common Cold
+12,Male,2,0,1,1,1,1,0,0,0,0,0,0,0,0,Common Cold
+25,Male,8,0,1,1,1,0,0,0,0,0,0,0,0,0,Common Cold
+17,Male,10,0,0,1,1,0,0,0,0,0,0,0,0,0,Common Cold
+42,Female,10,0,1,1,1,0,0,1,0,0,0,1,1,0,Flu-like Illness
+50,Male,8,1,1,1,0,0,0,1,0,0,0,1,1,0,Flu-like Illness
+19,Male,6,1,1,1,1,0,0,0,0,0,0,0,0,0,Common Cold
+52,Male,1,1,0,0,1,1,0,0,0,0,0,0,0,0,Common Cold
+19,Female,8,1,1,0,0,0,0,0,1,0,0,1,0,0,Common Cold
+16,Female,2,0,0,0,1,0,1,0,0,0,0,0,0,0,Seasonal Allergy
+41,Female,8,0,1,1,1,0,0,0,0,0,0,0,0,0,Common Cold
+20,Female,2,0,0,0,0,0,0,1,1,1,1,1,1,0,Gastroenteritis
+46,Female,9,0,0,1,1,1,0,1,0,0,0,1,0,0,Common Cold
+53,Other,5,0,0,0,0,0,0,1,1,0,0,0,0,1,Migraine
+23,Male,6,0,0,0,0,0,0,0,0,0,0,0,1,0,Gastroenteritis
+28,Male,8,1,1,0,0,0,0,1,0,0,0,0,1,0,Flu-like Illness
+31,Female,7,0,0,0,0,0,0,1,0,0,0,0,1,1,Migraine
+34,Male,5,0,0,0,0,0,0,0,1,0,0,1,0,0,Gastroenteritis
+43,Female,4,0,0,0,0,0,0,0,0,0,0,0,0,0,Seasonal Allergy
+38,Male,3,0,0,0,0,0,0,1,1,0,1,1,1,1,Migraine
+34,Male,8,0,0,0,0,0,0,0,0,1,1,1,0,0,Gastroenteritis
+45,Female,9,0,0,1,0,0,0,1,0,0,0,1,1,0,Flu-like Illness
+36,Female,9,0,0,0,0,0,0,1,0,0,0,1,1,1,Migraine
+1,Male,8,0,1,1,1,1,0,0,0,0,1,0,0,0,Common Cold
+4,Male,8,1,0,0,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+45,Male,3,0,0,0,1,0,1,0,0,0,0,0,0,0,Seasonal Allergy
+6,Female,6,0,0,0,0,0,0,1,1,0,0,0,0,0,Migraine
+39,Male,7,0,0,0,1,1,1,0,0,0,0,0,0,1,Seasonal Allergy
+26,Female,6,0,1,0,1,1,1,0,0,0,0,0,1,0,Seasonal Allergy
+43,Male,7,0,0,0,0,0,0,0,1,1,0,1,1,0,Gastroenteritis
+38,Male,10,0,0,0,0,0,0,1,0,0,0,0,0,1,Migraine
+19,Male,3,0,1,1,1,0,0,0,1,0,0,0,0,0,Common Cold
+35,Female,3,0,0,0,1,1,1,1,0,0,0,0,0,0,Seasonal Allergy
+44,Male,5,0,0,0,1,1,0,0,0,0,0,0,0,0,Seasonal Allergy
+10,Female,3,0,0,0,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+14,Male,6,0,0,0,0,0,0,1,1,0,0,0,1,1,Migraine
+37,Male,8,1,1,0,1,1,0,0,0,0,1,0,0,0,Common Cold
+41,Male,4,0,0,0,0,0,0,0,1,0,0,0,1,0,Gastroenteritis
+26,Male,1,0,1,1,1,1,0,0,0,0,0,1,1,1,Common Cold
+56,Male,9,0,0,0,0,0,0,0,1,0,1,0,0,0,Gastroenteritis
+38,Male,1,1,0,0,0,0,0,1,0,0,0,1,1,0,Flu-like Illness
+22,Female,7,1,1,0,0,0,0,1,0,0,0,1,1,0,Flu-like Illness
+33,Female,3,0,0,0,0,0,0,0,1,0,1,0,1,0,Gastroenteritis
+26,Male,8,1,0,0,0,0,0,1,1,0,0,0,0,0,Gastroenteritis
+28,Female,1,0,0,0,0,0,0,0,1,0,0,0,1,0,Gastroenteritis
+6,Female,5,0,0,0,0,0,0,0,1,0,0,0,0,1,Migraine
+33,Male,1,0,0,0,0,0,0,0,1,1,1,0,0,0,Gastroenteritis
+19,Female,4,0,0,0,0,1,0,0,0,0,0,0,0,0,Seasonal Allergy
+49,Female,8,0,1,0,1,0,0,0,0,0,0,0,0,0,Common Cold
+38,Male,1,1,1,0,0,0,0,1,0,0,0,1,1,0,Flu-like Illness
+43,Male,3,0,0,0,0,0,0,1,1,0,0,0,1,1,Migraine
+18,Female,5,0,0,0,0,0,0,1,1,0,0,0,0,1,Migraine
+43,Female,7,0,0,0,0,0,0,1,1,0,0,1,0,1,Migraine
+25,Female,3,0,0,1,0,0,0,1,0,0,0,1,1,0,Flu-like Illness
+39,Female,2,0,0,0,0,0,0,1,1,0,0,0,0,0,Migraine
+26,Female,1,1,0,1,1,0,0,0,1,0,0,1,0,0,Flu-like Illness
+34,Female,9,0,0,0,0,0,0,0,1,0,1,0,1,0,Gastroenteritis
+22,Male,9,0,0,0,0,0,0,1,1,1,1,0,1,0,Gastroenteritis
+1,Female,7,0,0,0,0,1,0,0,0,0,0,0,0,0,Seasonal Allergy
+64,Female,5,1,1,0,0,0,0,1,1,0,1,1,1,0,Flu-like Illness
+24,Female,5,0,0,0,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+57,Male,7,1,1,1,0,0,0,1,1,0,0,1,1,0,Flu-like Illness
+26,Male,9,0,0,0,0,0,0,1,0,0,0,0,0,1,Migraine
+31,Female,4,0,0,0,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+16,Male,8,0,0,0,0,1,1,0,0,0,0,0,1,0,Seasonal Allergy
+26,Female,9,0,0,0,0,1,0,0,0,0,0,0,0,0,Seasonal Allergy
+37,Male,8,0,1,0,1,1,0,1,0,0,0,1,0,0,Common Cold
+43,Male,10,0,0,0,0,0,0,1,0,0,1,0,0,0,Gastroenteritis
+22,Male,7,1,1,1,0,0,0,1,0,0,0,1,0,1,Flu-like Illness
+33,Male,5,0,1,1,1,0,0,0,0,0,0,0,0,0,Common Cold
+27,Female,7,0,1,1,1,0,0,1,0,0,0,0,0,0,Common Cold
+61,Male,7,1,1,0,0,0,0,0,0,0,0,0,0,0,Flu-like Illness
+34,Male,1,0,0,0,0,0,0,1,1,0,0,0,1,1,Migraine
+32,Male,7,0,0,0,0,0,0,1,0,1,0,1,0,0,Gastroenteritis
+27,Female,3,1,0,0,0,0,0,0,1,1,1,0,0,0,Gastroenteritis
+21,Male,1,0,0,0,0,0,0,1,0,0,0,1,0,1,Migraine
+8,Male,3,1,0,1,1,0,0,0,0,0,0,1,1,0,Flu-like Illness
+39,Male,10,0,0,0,1,1,0,0,0,0,0,0,0,0,Seasonal Allergy
+49,Female,2,0,0,0,0,0,0,1,0,0,0,0,1,1,Migraine
+16,Female,3,1,0,1,1,0,0,0,0,0,0,1,1,0,Flu-like Illness
+45,Female,9,1,0,1,0,0,0,1,1,0,0,1,0,1,Migraine
+27,Male,7,0,0,0,0,0,0,1,1,0,0,1,0,1,Migraine
+22,Female,6,1,0,0,1,0,0,1,0,0,0,1,0,0,Flu-like Illness
+43,Female,7,0,0,0,0,0,0,1,0,0,0,0,0,1,Migraine
+46,Female,7,0,1,1,0,0,0,0,0,0,0,0,0,0,Common Cold
+15,Female,5,0,0,0,0,0,0,1,1,0,1,0,0,1,Gastroenteritis
+1,Male,6,0,0,0,1,1,1,0,0,0,1,0,1,0,Seasonal Allergy
+39,Male,4,0,0,0,0,0,0,1,1,0,0,0,1,1,Migraine
+16,Female,7,1,0,0,0,0,0,1,1,1,1,1,0,0,Gastroenteritis
+24,Male,1,0,0,0,0,0,1,0,1,0,0,0,1,1,Migraine
+26,Other,6,1,0,0,0,0,0,0,0,0,0,1,1,0,Flu-like Illness
+54,Male,6,0,0,0,0,0,0,1,0,0,0,1,1,0,Flu-like Illness
+57,Male,8,0,0,0,0,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+1,Male,2,1,1,0,1,0,0,0,0,0,0,0,0,0,Common Cold
+1,Female,8,1,0,0,0,0,0,0,1,1,1,0,1,0,Gastroenteritis
+45,Female,9,0,0,0,1,1,0,0,0,0,0,0,0,0,Seasonal Allergy
+21,Female,2,0,0,0,1,1,0,0,0,0,0,0,1,0,Seasonal Allergy
+42,Male,9,0,0,0,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+41,Female,7,0,0,0,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+33,Female,3,0,0,0,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+6,Male,2,1,0,1,1,0,0,0,0,0,0,1,0,0,Common Cold
+31,Male,8,1,0,0,0,0,0,0,1,0,0,1,0,0,Migraine
+33,Male,10,1,0,0,0,0,0,0,1,1,1,0,0,0,Gastroenteritis
+28,Male,9,0,0,0,0,0,0,1,1,1,0,1,1,1,Migraine
+20,Female,4,1,1,1,1,1,0,0,1,0,0,0,1,0,Common Cold
+25,Female,9,1,0,0,0,0,0,0,1,0,0,0,1,0,Gastroenteritis
+32,Female,3,0,1,0,0,0,0,1,0,0,0,1,1,0,Flu-like Illness
+40,Female,8,0,1,1,1,1,0,0,0,0,0,1,1,0,Common Cold
+19,Female,4,0,1,0,0,1,1,0,0,0,0,0,1,0,Seasonal Allergy
+18,Female,10,0,0,0,0,0,0,1,1,1,0,0,0,0,Gastroenteritis
+27,Female,6,0,0,0,0,0,0,1,0,0,0,0,1,0,Migraine
+43,Male,2,0,0,0,0,0,0,0,0,1,0,0,1,0,Gastroenteritis
+43,Male,2,1,1,0,1,0,0,1,0,0,0,1,1,0,Flu-like Illness
+24,Female,3,0,1,0,0,0,0,0,1,0,0,0,0,0,Common Cold
+35,Male,8,0,0,0,0,0,0,0,0,1,0,0,0,0,Gastroenteritis
+18,Male,8,0,0,0,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+39,Male,4,0,0,0,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+32,Other,7,0,0,0,0,0,0,1,1,0,0,0,1,0,Migraine
+7,Female,4,1,1,1,1,0,0,0,0,0,0,0,0,0,Common Cold
+24,Female,6,0,0,0,0,0,0,1,0,0,0,1,0,1,Migraine
+27,Male,5,1,0,1,0,0,0,1,0,0,0,1,1,0,Flu-like Illness
+55,Male,7,0,1,0,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+33,Male,5,0,0,0,1,0,0,0,0,0,0,0,1,0,Seasonal Allergy
+32,Female,10,0,0,0,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+30,Female,7,0,1,1,1,1,0,0,0,0,0,0,1,1,Common Cold
+21,Male,4,0,1,0,0,1,0,0,0,0,0,0,1,0,Seasonal Allergy
+21,Female,1,0,0,0,0,0,0,0,0,0,0,0,1,0,Gastroenteritis
+3,Male,1,1,1,1,0,0,0,0,0,0,0,1,1,0,Flu-like Illness
+7,Female,2,0,0,0,0,0,0,1,1,0,0,0,0,1,Migraine
+31,Female,3,0,0,0,0,0,0,1,1,0,0,1,1,1,Migraine
+27,Male,8,0,0,0,0,0,0,0,0,0,0,1,1,0,Flu-like Illness
+38,Male,4,0,0,0,0,0,0,0,1,0,1,1,1,0,Gastroenteritis
+27,Male,6,0,1,1,1,0,0,0,0,0,0,1,0,0,Common Cold
+9,Male,9,0,0,0,0,1,0,0,0,0,0,0,1,0,Seasonal Allergy
+24,Male,5,0,0,0,0,0,0,0,0,0,0,0,1,0,Gastroenteritis
+17,Male,7,1,1,0,0,0,0,1,0,0,0,1,1,0,Flu-like Illness
+43,Male,7,0,0,0,0,0,0,1,1,0,0,0,0,1,Migraine
+33,Female,1,0,0,0,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+33,Male,10,0,0,0,0,0,0,0,1,1,1,0,1,0,Gastroenteritis
+33,Male,8,0,0,0,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+36,Male,9,1,0,0,0,0,0,0,1,1,0,0,1,0,Gastroenteritis
+14,Male,10,0,0,0,0,0,0,0,1,0,0,1,0,0,Gastroenteritis
+38,Male,7,0,1,1,1,1,0,1,0,0,0,0,0,1,Common Cold
+22,Female,1,0,0,0,1,1,1,0,0,0,0,0,1,0,Seasonal Allergy
+39,Male,6,0,0,0,1,0,0,0,0,0,0,0,1,0,Seasonal Allergy
+2,Female,3,1,1,1,1,0,0,1,0,0,0,1,1,0,Flu-like Illness
+20,Female,10,1,0,0,0,0,0,1,0,0,0,0,1,1,Migraine
+20,Other,8,0,0,0,0,0,0,0,1,0,0,1,0,1,Migraine
+29,Female,4,1,1,1,0,1,0,0,0,0,0,1,1,0,Flu-like Illness
+15,Female,1,0,1,1,1,0,0,1,0,0,0,0,1,0,Common Cold
+33,Male,4,0,0,0,1,1,1,0,0,0,0,0,1,0,Seasonal Allergy
+14,Male,7,1,1,1,0,0,0,1,0,1,0,1,1,0,Flu-like Illness
+41,Male,2,1,1,1,1,1,0,0,0,0,1,0,0,0,Common Cold
+24,Male,1,0,0,0,1,0,1,0,0,0,0,0,0,0,Seasonal Allergy
+17,Male,1,0,1,1,1,1,0,0,0,0,0,0,0,0,Common Cold
+57,Female,7,1,1,0,0,0,0,0,1,0,0,1,1,0,Flu-like Illness
+23,Female,10,0,1,0,1,1,1,0,1,0,0,0,0,0,Seasonal Allergy
+19,Female,10,0,0,0,0,0,0,0,1,1,1,0,0,0,Gastroenteritis
+45,Female,2,0,0,0,0,0,0,1,0,0,0,0,0,1,Migraine
+24,Male,6,0,0,0,0,0,1,0,1,0,1,0,0,0,Gastroenteritis
+9,Male,6,0,0,0,0,0,1,0,0,0,0,0,1,0,Seasonal Allergy
+11,Male,9,0,1,1,1,0,1,0,0,0,0,0,1,0,Common Cold
+36,Male,3,0,0,0,1,0,0,0,0,0,0,1,1,0,Flu-like Illness
+43,Male,10,0,1,1,1,0,0,1,0,0,0,0,0,0,Common Cold
+29,Female,2,0,0,0,0,0,0,0,0,0,1,0,0,0,Gastroenteritis
+22,Female,2,1,1,0,0,1,0,1,0,0,0,1,1,0,Flu-like Illness
+22,Female,3,0,0,0,0,0,0,1,1,0,1,1,1,0,Gastroenteritis
+31,Female,5,0,0,0,1,1,1,0,0,1,0,1,0,1,Seasonal Allergy
+47,Female,10,0,0,0,0,0,0,0,1,1,1,0,0,0,Gastroenteritis
+31,Male,5,0,1,0,0,0,0,1,0,0,0,1,1,0,Flu-like Illness
+21,Male,8,0,0,0,0,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+43,Male,6,1,1,1,0,0,0,0,0,0,0,1,1,0,Flu-like Illness
+39,Male,8,0,0,0,0,0,0,1,1,0,0,1,1,1,Migraine
+49,Male,8,0,0,0,1,1,1,0,1,0,0,0,0,0,Seasonal Allergy
+32,Male,5,1,0,1,1,0,1,0,0,0,0,0,0,0,Common Cold
+26,Male,10,0,1,0,1,0,0,1,0,0,0,0,0,0,Common Cold
+23,Female,5,0,0,0,0,0,0,1,1,1,1,0,0,0,Gastroenteritis
+36,Female,7,0,1,1,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+39,Male,5,0,0,0,1,0,0,0,1,0,0,0,1,0,Gastroenteritis
+39,Male,7,0,1,1,1,0,0,0,0,0,0,0,0,0,Common Cold
+14,Male,4,1,1,1,0,0,0,1,0,0,0,1,1,0,Flu-like Illness
+36,Female,10,1,0,0,0,0,0,0,1,1,1,0,0,0,Gastroenteritis
+33,Female,6,0,0,0,0,0,0,1,0,0,0,1,1,1,Migraine
+35,Female,9,0,0,0,0,0,0,1,1,0,0,0,0,1,Migraine
+1,Male,2,0,0,0,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+21,Male,7,0,0,0,0,0,0,0,0,1,0,1,1,0,Flu-like Illness
+11,Female,5,0,0,0,0,0,0,0,1,1,0,0,0,0,Gastroenteritis
+32,Female,8,0,0,0,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+13,Female,8,0,0,0,1,1,0,1,0,0,0,0,0,0,Common Cold
+26,Male,4,0,1,0,1,0,1,1,0,0,0,0,1,0,Common Cold
+24,Female,7,1,0,0,0,0,0,0,0,0,0,1,1,0,Flu-like Illness
+26,Female,4,0,0,1,0,1,1,0,0,0,1,1,0,0,Common Cold
+51,Male,1,0,0,0,1,1,1,0,0,0,0,0,1,0,Seasonal Allergy
+49,Female,9,1,0,0,1,0,0,0,1,1,1,1,1,1,Gastroenteritis
+40,Female,5,0,0,0,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+41,Male,6,1,0,0,0,1,0,0,1,0,0,1,1,0,Flu-like Illness
+17,Female,8,1,1,1,0,0,0,1,0,0,0,1,1,0,Flu-like Illness
+28,Male,10,0,0,0,0,0,0,0,1,0,1,0,0,0,Gastroenteritis
+30,Female,10,0,1,1,1,0,0,0,0,0,1,0,1,0,Common Cold
+33,Male,6,0,0,0,0,0,0,1,1,0,0,0,0,1,Migraine
+32,Male,4,0,0,0,1,1,1,0,0,0,0,0,0,1,Seasonal Allergy
+21,Male,3,0,0,0,0,0,1,0,1,0,1,1,0,0,Gastroenteritis
+23,Female,8,0,1,0,1,1,0,0,0,0,0,0,0,0,Common Cold
+30,Male,1,0,0,0,1,1,1,0,1,0,0,0,0,0,Seasonal Allergy
+31,Male,5,0,0,0,0,0,0,1,1,0,0,0,1,1,Migraine
+45,Female,5,0,0,1,0,0,0,1,1,0,0,0,0,0,Migraine
+28,Male,6,1,0,0,0,0,0,0,1,1,0,0,0,0,Gastroenteritis
+41,Male,4,0,0,0,0,0,0,1,0,1,0,1,0,1,Migraine
+16,Female,6,0,0,0,0,0,0,0,1,0,1,1,1,0,Gastroenteritis
+11,Female,6,0,1,1,1,1,0,0,0,0,0,0,0,0,Common Cold
+27,Female,7,0,0,1,1,0,0,0,0,0,0,1,0,1,Common Cold
+7,Male,9,0,0,0,1,1,1,0,0,0,0,0,1,0,Seasonal Allergy
+27,Male,9,0,0,0,0,0,0,0,1,0,1,1,1,0,Gastroenteritis
+35,Female,8,0,0,0,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+62,Male,5,1,1,0,0,0,0,1,0,0,1,1,1,0,Flu-like Illness
+23,Male,3,0,0,0,0,0,0,0,1,0,0,0,1,0,Migraine
+32,Male,6,0,0,1,1,1,0,0,0,0,0,0,1,0,Common Cold
+16,Female,4,1,0,0,0,0,0,0,1,0,1,0,1,0,Gastroenteritis
+30,Female,5,0,1,1,1,0,0,1,0,0,0,0,0,0,Common Cold
+31,Female,2,0,1,1,1,0,0,0,0,0,0,0,1,0,Common Cold
+40,Female,4,0,0,0,0,0,0,0,1,1,1,0,0,0,Gastroenteritis
+32,Female,8,0,0,0,0,0,0,0,1,1,0,1,0,0,Gastroenteritis
+14,Female,9,0,0,1,1,0,0,0,1,0,0,0,0,0,Common Cold
+50,Male,10,0,0,0,0,0,0,1,0,0,0,0,0,1,Migraine
+31,Male,9,1,0,1,0,0,0,0,0,0,0,1,0,0,Flu-like Illness
+9,Female,8,1,1,0,1,0,0,0,0,0,0,0,0,0,Flu-like Illness
+36,Female,10,1,1,0,0,0,0,0,0,0,0,1,1,0,Flu-like Illness
+18,Male,5,0,0,0,0,0,0,0,1,1,1,0,0,0,Gastroenteritis
+21,Male,6,0,1,1,0,0,0,0,0,0,0,0,0,0,Common Cold
+29,Male,3,1,1,0,0,0,0,0,1,0,0,1,1,1,Flu-like Illness
+10,Female,4,1,1,0,0,1,1,0,0,0,0,0,1,0,Common Cold
+53,Other,7,0,0,0,0,0,0,1,0,0,0,0,0,1,Migraine
+53,Male,9,0,0,0,1,0,1,0,0,0,0,0,0,0,Seasonal Allergy
+13,Male,5,0,0,0,0,0,0,1,0,0,0,0,1,1,Migraine
+18,Female,4,1,0,0,0,0,0,0,1,0,1,0,1,0,Gastroenteritis
+35,Male,7,0,0,0,0,0,0,0,1,1,1,0,1,0,Gastroenteritis
+23,Male,4,0,0,1,0,0,1,0,0,0,0,0,0,1,Seasonal Allergy
+24,Male,2,1,0,0,0,0,0,1,0,0,0,1,0,0,Flu-like Illness
+43,Female,10,0,0,0,0,0,0,1,0,1,1,0,0,0,Gastroenteritis
+36,Female,9,0,0,0,0,0,0,1,0,0,1,0,0,0,Gastroenteritis
+31,Female,7,0,0,0,0,0,0,1,1,0,0,1,1,1,Migraine
+5,Male,2,0,0,0,0,0,0,1,0,0,1,1,0,0,Gastroenteritis
+47,Female,6,1,1,0,0,0,0,0,0,0,0,0,1,0,Flu-like Illness
+20,Male,7,0,0,0,1,1,1,0,0,0,0,0,1,0,Seasonal Allergy
+33,Female,5,0,0,0,0,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+32,Male,5,0,0,0,0,0,0,1,1,1,1,1,1,0,Gastroenteritis
+32,Male,6,0,1,1,1,0,0,0,0,0,0,0,1,0,Common Cold
+39,Male,2,0,0,0,0,0,0,0,1,1,1,0,1,0,Gastroenteritis
+44,Female,8,0,0,0,1,1,0,0,0,0,0,0,0,0,Seasonal Allergy
+36,Female,5,0,1,1,1,0,0,0,0,0,0,0,1,0,Common Cold
+14,Female,1,1,0,1,1,1,0,0,0,0,0,0,0,0,Seasonal Allergy
+28,Female,8,0,0,0,0,0,0,0,1,0,1,0,0,0,Gastroenteritis
+22,Female,3,0,0,0,1,1,1,0,0,0,0,0,1,0,Seasonal Allergy
+22,Male,10,0,0,1,0,1,0,0,1,0,0,0,1,0,Common Cold
+31,Male,5,0,0,0,0,0,0,0,1,0,0,0,1,0,Gastroenteritis
+37,Female,6,0,0,0,0,0,0,1,1,0,0,1,0,1,Migraine
+37,Male,1,0,0,0,0,0,0,1,0,0,0,0,1,1,Migraine
+27,Male,2,0,1,1,1,0,0,0,0,0,0,0,0,0,Common Cold
+43,Male,3,1,0,0,0,0,0,0,0,1,0,0,0,0,Gastroenteritis
+51,Male,2,0,0,0,0,0,0,0,0,0,1,0,0,0,Gastroenteritis
+53,Female,8,0,0,0,0,0,0,1,0,0,0,0,1,1,Migraine
+16,Male,8,1,0,1,0,0,0,0,0,0,0,0,1,0,Common Cold
+58,Male,4,0,0,0,0,0,0,1,1,0,0,0,0,1,Migraine
+36,Female,8,0,0,0,0,0,0,1,1,0,0,0,0,0,Migraine
+15,Male,6,0,1,0,1,0,0,0,0,0,0,0,1,0,Common Cold
+34,Male,9,0,0,0,0,0,0,1,0,0,0,1,1,1,Migraine
+1,Female,2,0,1,1,1,1,1,0,1,0,0,0,0,1,Common Cold
+21,Male,1,0,1,0,1,0,1,0,0,0,0,0,0,0,Seasonal Allergy
+68,Female,8,1,1,1,0,0,0,0,0,0,0,1,1,0,Flu-like Illness
+31,Female,5,1,0,1,1,1,0,0,0,0,0,0,0,0,Common Cold
+36,Female,8,1,1,1,1,1,0,0,0,0,0,0,0,0,Common Cold
+42,Female,2,1,0,0,0,0,0,0,0,0,1,1,1,0,Gastroenteritis
+40,Male,2,0,0,0,0,0,0,1,1,1,1,0,1,0,Gastroenteritis
+27,Male,4,0,1,1,1,0,0,0,0,0,0,0,1,0,Common Cold
+24,Male,3,0,0,0,0,0,0,0,0,0,1,0,0,0,Gastroenteritis
+48,Male,2,0,0,0,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+19,Male,1,1,0,0,0,0,0,0,0,0,0,1,1,0,Flu-like Illness
+21,Female,4,1,1,1,0,1,0,1,0,0,0,1,0,0,Flu-like Illness
+25,Female,9,0,0,0,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+39,Male,6,1,0,1,0,1,0,0,0,0,0,1,1,0,Flu-like Illness
+28,Male,2,0,0,0,0,0,0,0,0,0,0,0,0,0,Common Cold
+38,Female,6,0,0,0,0,0,0,1,1,0,0,1,1,1,Migraine
+51,Female,8,0,0,0,0,0,0,1,1,0,0,0,0,1,Migraine
+45,Female,4,1,0,1,0,0,0,0,0,0,0,0,1,0,Flu-like Illness
+40,Male,2,0,1,1,1,0,0,0,0,0,0,0,0,0,Common Cold
+20,Female,6,1,0,0,0,0,0,0,1,0,0,0,1,0,Gastroenteritis
+52,Male,9,0,0,0,0,0,0,0,0,1,1,0,1,0,Gastroenteritis
+22,Female,2,0,0,0,0,0,0,1,1,0,0,0,0,1,Migraine
+21,Female,7,0,0,0,0,0,0,0,1,1,1,0,0,1,Gastroenteritis
+17,Male,7,0,1,1,1,1,1,0,0,0,0,0,0,0,Common Cold
+38,Female,6,1,1,0,0,0,0,1,0,0,0,1,1,0,Flu-like Illness
+13,Male,2,0,0,0,1,0,0,1,0,0,0,0,1,1,Migraine
+36,Female,2,0,1,0,1,1,0,0,0,0,0,0,0,0,Seasonal Allergy
+32,Male,3,0,0,0,0,0,0,1,0,0,0,0,1,1,Migraine
+1,Male,2,0,0,0,0,0,0,1,0,0,0,0,0,1,Migraine
+30,Male,9,1,0,0,0,0,0,0,0,0,0,1,1,0,Flu-like Illness
+20,Male,6,0,0,0,1,0,0,0,0,0,0,0,1,0,Common Cold
+53,Other,9,1,0,0,0,0,0,1,1,1,0,0,0,1,Migraine
+46,Female,5,1,1,1,0,0,0,1,0,0,0,1,1,0,Flu-like Illness
+36,Female,2,1,0,0,1,0,0,0,0,0,0,0,1,0,Flu-like Illness
+61,Male,9,1,0,0,0,0,0,1,1,0,0,1,0,0,Flu-like Illness
+33,Male,5,1,1,1,0,0,0,1,0,0,0,0,0,0,Flu-like Illness
+36,Male,5,0,0,0,0,0,0,1,1,0,0,0,1,1,Migraine
+35,Male,6,0,0,0,0,0,0,0,1,0,1,0,0,0,Gastroenteritis
+39,Male,3,0,0,0,1,1,0,0,0,0,0,0,0,0,Seasonal Allergy
+33,Female,10,1,0,1,0,0,0,0,0,0,0,1,1,0,Flu-like Illness
+7,Female,6,0,0,0,1,0,1,1,0,0,0,0,0,0,Seasonal Allergy
+22,Male,3,0,0,0,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+9,Male,1,0,0,0,0,0,0,1,1,0,0,1,0,1,Migraine
+38,Female,10,0,0,0,1,1,1,0,0,0,0,0,1,0,Seasonal Allergy
+1,Male,7,0,0,0,0,0,0,0,0,0,1,0,1,0,Gastroenteritis
+28,Female,5,0,1,1,0,1,0,0,0,0,0,0,0,0,Common Cold
+24,Female,4,1,0,0,0,0,0,0,1,1,1,0,1,0,Gastroenteritis
+29,Male,9,0,0,0,0,0,0,0,1,1,1,1,1,0,Gastroenteritis
+35,Male,5,1,0,0,0,0,0,0,1,1,1,0,1,0,Gastroenteritis
+32,Male,5,0,0,0,0,0,0,0,1,0,0,0,1,1,Migraine
+48,Male,5,0,0,0,0,0,0,1,1,0,0,0,0,1,Migraine
+39,Female,4,0,0,0,0,0,0,1,0,1,0,0,0,0,Gastroenteritis
+43,Male,4,1,1,0,0,0,0,0,0,0,0,1,1,0,Flu-like Illness
+39,Male,10,0,0,0,0,0,0,1,1,0,1,1,1,0,Gastroenteritis
+38,Male,9,0,0,1,1,0,0,0,0,0,0,0,1,0,Common Cold
+9,Female,7,0,0,0,0,0,1,1,1,1,1,1,0,0,Gastroenteritis
+1,Male,7,0,1,0,1,0,0,0,0,0,0,0,0,0,Seasonal Allergy
+42,Male,1,0,0,0,0,0,0,1,1,1,1,1,1,0,Gastroenteritis
+12,Female,4,0,1,0,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+21,Male,2,1,0,1,0,0,0,1,0,0,0,1,1,0,Flu-like Illness
+21,Female,4,0,0,0,0,1,0,0,0,0,0,0,0,0,Seasonal Allergy
+53,Male,8,0,0,0,0,0,0,0,1,1,1,0,0,0,Gastroenteritis
+13,Female,7,0,0,0,0,0,0,1,1,0,1,0,1,0,Gastroenteritis
+22,Female,8,0,0,0,0,0,0,1,0,0,0,0,0,1,Migraine
+55,Female,6,0,0,0,0,0,0,1,1,0,0,0,1,1,Migraine
+68,Female,9,0,0,0,0,0,0,1,0,0,0,0,0,1,Migraine
+38,Male,3,0,0,0,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+49,Female,3,0,1,1,1,0,0,0,1,0,0,0,1,0,Common Cold
+19,Male,10,1,1,1,0,1,0,0,0,0,0,1,1,0,Flu-like Illness
+16,Female,7,1,0,0,0,0,0,0,1,0,0,1,1,0,Flu-like Illness
+33,Male,5,0,0,0,0,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+16,Female,9,0,0,0,0,0,0,0,1,0,1,0,0,0,Gastroenteritis
+48,Male,9,1,0,1,0,0,0,0,0,0,0,1,1,0,Flu-like Illness
+37,Male,3,0,1,1,1,1,0,0,0,0,0,0,1,0,Common Cold
+59,Male,7,1,1,1,1,0,0,0,0,0,0,0,0,0,Common Cold
+36,Female,9,0,0,0,0,0,0,1,0,0,0,0,0,1,Migraine
+36,Male,6,0,0,0,0,0,0,0,1,0,1,1,0,0,Gastroenteritis
+8,Female,9,1,0,1,0,0,0,1,0,0,0,0,0,0,Flu-like Illness
+55,Female,9,1,1,0,0,0,0,0,0,0,0,0,1,0,Flu-like Illness
+22,Female,2,1,0,0,0,0,0,1,1,0,1,0,1,0,Gastroenteritis
+31,Female,10,1,1,0,1,0,0,1,1,0,0,1,0,0,Flu-like Illness
+26,Female,9,1,0,0,0,0,0,0,1,1,1,0,1,0,Gastroenteritis
+49,Female,5,1,0,0,0,0,0,0,0,0,0,1,1,0,Flu-like Illness
+52,Female,9,0,1,1,0,0,0,1,0,0,0,0,1,0,Common Cold
+42,Male,10,1,0,0,1,0,0,0,0,0,0,1,1,0,Flu-like Illness
+40,Female,5,0,0,0,0,0,0,0,0,0,1,0,0,0,Gastroenteritis
+38,Female,4,0,0,0,0,0,0,1,0,0,0,1,1,1,Migraine
+41,Male,10,0,0,1,1,0,0,0,1,0,0,0,0,0,Common Cold
+30,Male,9,0,0,1,0,0,0,1,0,0,0,0,1,0,Flu-like Illness
+23,Male,8,0,0,0,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+46,Female,3,0,1,0,0,0,0,0,0,0,0,1,1,0,Flu-like Illness
+6,Female,8,0,0,0,0,0,0,0,1,1,0,0,1,0,Gastroenteritis
+21,Male,6,1,0,0,0,0,0,0,1,0,1,0,1,0,Gastroenteritis
+27,Female,1,0,0,0,0,0,0,1,1,0,0,1,1,1,Migraine
+26,Male,9,1,0,0,0,0,0,1,1,0,1,1,0,0,Gastroenteritis
+49,Female,6,0,0,0,0,0,0,0,0,0,1,0,1,0,Gastroenteritis
+54,Male,5,0,0,0,0,0,0,1,1,0,0,0,1,1,Migraine
+48,Female,1,0,0,0,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+31,Male,3,1,1,1,1,0,0,0,0,0,0,0,1,0,Common Cold
+67,Male,6,0,0,0,0,0,0,0,0,0,1,1,1,0,Gastroenteritis
+46,Male,3,0,0,0,0,0,0,1,0,0,0,0,0,1,Migraine
+34,Female,7,0,0,0,1,1,1,1,0,0,0,0,0,0,Seasonal Allergy
+5,Male,4,1,0,0,0,0,0,0,1,0,0,1,1,0,Flu-like Illness
+32,Male,9,0,0,0,0,0,0,1,1,0,0,1,0,1,Migraine
+27,Male,1,0,0,0,0,0,0,1,1,0,0,1,0,0,Migraine
+29,Male,1,0,0,0,1,1,0,0,0,0,0,0,0,0,Seasonal Allergy
+25,Female,4,0,0,0,0,0,0,1,0,0,0,0,0,0,Migraine
+5,Male,7,0,0,0,0,0,0,1,0,0,0,0,1,0,Migraine
+16,Female,6,0,0,0,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+12,Female,10,0,1,1,0,1,0,0,0,0,0,0,0,0,Common Cold
+42,Male,4,0,1,1,1,0,1,0,0,0,0,0,0,0,Common Cold
+1,Female,5,0,0,0,1,0,1,0,0,0,0,0,1,0,Seasonal Allergy
+37,Female,6,1,0,0,0,1,0,1,0,0,1,1,0,1,Flu-like Illness
+26,Male,1,1,0,0,0,0,0,0,1,1,0,0,0,0,Gastroenteritis
+12,Female,9,0,0,0,0,0,0,0,1,1,0,0,0,0,Gastroenteritis
+29,Male,3,0,0,0,0,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+30,Male,10,1,1,0,0,0,0,1,0,0,0,1,0,0,Flu-like Illness
+51,Male,5,0,0,0,0,0,0,1,1,0,0,0,0,0,Migraine
+36,Female,6,1,0,0,0,0,0,0,0,0,0,1,1,0,Flu-like Illness
+6,Male,7,0,0,0,0,0,0,1,1,1,1,0,1,0,Gastroenteritis
+15,Male,10,0,0,0,0,0,0,1,0,1,1,0,0,0,Gastroenteritis
+13,Female,4,0,0,0,0,0,0,1,0,0,0,1,1,1,Migraine
+36,Female,6,1,0,0,0,0,0,0,1,0,0,1,1,0,Flu-like Illness
+26,Male,6,0,0,0,1,0,0,0,1,1,0,0,0,0,Gastroenteritis
+31,Male,1,1,0,0,0,0,0,1,1,0,0,1,1,0,Flu-like Illness
+13,Female,7,0,0,0,0,0,0,0,1,0,1,0,1,0,Gastroenteritis
+10,Male,4,0,1,0,0,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+24,Male,4,0,0,0,0,0,0,1,0,0,0,1,0,1,Migraine
+28,Female,2,1,1,0,0,0,0,0,0,0,0,1,1,0,Flu-like Illness
+31,Male,2,0,0,0,1,0,0,1,0,0,0,1,0,1,Migraine
+65,Female,5,1,1,1,0,0,0,1,0,0,0,0,0,0,Flu-like Illness
+29,Male,5,0,1,0,1,0,0,0,0,0,0,0,0,0,Common Cold
+32,Female,7,1,1,0,0,0,0,0,0,1,1,1,0,0,Flu-like Illness
+19,Male,8,0,1,1,1,0,0,0,0,0,0,0,1,0,Common Cold
+49,Female,1,0,0,0,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+16,Male,1,0,0,0,0,0,0,1,0,0,0,0,0,0,Gastroenteritis
+27,Female,2,1,0,1,0,0,0,0,1,0,0,1,0,0,Flu-like Illness
+41,Female,10,1,1,0,0,0,0,1,0,0,0,1,1,0,Flu-like Illness
+58,Female,3,0,0,1,0,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+6,Male,5,1,0,0,0,0,0,0,0,0,0,1,1,0,Flu-like Illness
+11,Female,8,0,0,0,1,1,1,0,0,0,0,0,1,0,Seasonal Allergy
+28,Male,3,0,1,0,1,0,0,0,0,0,0,0,0,1,Seasonal Allergy
+39,Male,9,0,1,1,0,0,0,0,1,0,0,1,1,0,Flu-like Illness
+21,Female,10,0,0,0,1,1,1,1,0,0,0,0,0,0,Seasonal Allergy
+23,Male,8,0,1,0,1,0,0,1,0,0,0,0,0,0,Common Cold
+31,Male,10,1,0,1,0,0,0,1,0,0,0,1,0,0,Flu-like Illness
+14,Female,8,0,0,0,1,1,0,0,0,0,0,0,0,0,Seasonal Allergy
+22,Male,8,0,0,0,0,0,0,0,0,0,0,0,0,0,Common Cold
+59,Male,5,0,0,1,1,0,0,1,0,0,0,0,0,0,Common Cold
+11,Male,2,1,1,0,1,0,0,0,1,0,0,0,0,1,Common Cold
+24,Female,8,0,1,1,1,0,0,0,0,0,0,0,0,0,Common Cold
+25,Female,10,0,0,1,0,1,0,0,1,1,1,0,0,0,Gastroenteritis
+15,Male,10,1,0,0,0,1,1,0,0,0,0,1,0,0,Flu-like Illness
+36,Female,6,0,0,0,0,0,0,1,1,0,0,1,0,0,Migraine
+34,Female,7,0,0,0,0,0,0,0,0,1,0,0,0,0,Gastroenteritis
+39,Male,1,0,0,0,0,0,0,1,1,0,0,0,0,1,Migraine
+15,Female,6,0,0,0,0,0,0,1,1,0,0,0,1,1,Migraine
+62,Male,6,0,0,0,0,0,0,1,0,0,0,0,0,1,Migraine
+43,Male,9,0,0,0,0,0,0,1,1,0,0,1,1,1,Migraine
+34,Female,2,0,1,0,1,1,0,0,0,0,0,0,0,0,Seasonal Allergy
+23,Female,9,0,0,0,1,1,1,1,0,0,0,0,0,0,Seasonal Allergy
+50,Female,5,0,0,0,0,0,0,1,1,0,0,1,0,1,Migraine
+29,Male,1,0,0,0,0,0,0,0,1,1,0,0,0,0,Gastroenteritis
+24,Female,4,0,0,0,0,0,0,1,0,0,0,0,1,1,Migraine
+1,Male,4,0,1,0,1,0,0,0,0,0,0,0,1,0,Common Cold
+25,Male,8,1,1,0,0,0,0,0,0,0,0,0,0,0,Common Cold
+10,Male,7,0,0,0,0,0,0,1,1,0,0,0,0,0,Migraine
+23,Male,10,0,1,0,1,1,0,0,0,0,0,0,0,0,Common Cold
+8,Female,10,1,0,1,1,0,0,0,0,0,0,1,1,0,Flu-like Illness
+37,Female,7,0,0,0,1,0,0,1,0,0,0,0,1,0,Common Cold
+50,Male,1,0,0,0,0,0,0,0,1,0,1,0,1,0,Gastroenteritis
+46,Male,1,1,1,1,0,0,0,1,0,0,0,1,0,0,Flu-like Illness
+26,Female,6,0,0,0,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+10,Female,10,1,0,0,0,0,0,1,0,0,0,1,1,0,Flu-like Illness
+45,Male,7,1,0,0,1,0,0,0,1,0,0,1,1,0,Flu-like Illness
+4,Male,9,0,0,0,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+18,Male,6,0,1,1,1,0,0,0,0,0,0,0,0,0,Common Cold
+23,Female,5,0,0,0,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+26,Male,10,0,0,0,0,0,0,1,1,0,0,1,0,0,Migraine
+53,Male,1,0,0,0,0,0,0,1,1,0,0,1,0,0,Migraine
+16,Female,5,0,0,0,1,1,1,0,0,0,0,0,1,0,Seasonal Allergy
+42,Female,7,1,0,0,0,1,0,1,0,0,0,1,1,0,Flu-like Illness
+24,Male,7,0,0,0,1,1,0,0,0,0,0,1,1,0,Common Cold
+49,Male,10,0,0,0,0,0,0,1,1,1,1,0,0,0,Gastroenteritis
+51,Male,10,1,0,0,0,0,0,0,1,1,0,0,1,0,Gastroenteritis
+40,Female,9,0,0,0,0,0,0,0,0,0,0,0,0,0,Common Cold
+62,Male,1,1,0,1,0,0,0,1,0,0,0,1,1,0,Flu-like Illness
+47,Female,10,0,1,1,1,0,1,0,0,0,0,0,0,0,Common Cold
+13,Female,9,0,0,0,0,0,0,1,0,0,0,1,1,1,Migraine
+29,Female,5,0,1,1,0,0,1,0,0,0,0,0,1,0,Common Cold
+35,Female,5,0,1,0,1,0,0,0,0,0,0,0,1,0,Common Cold
+56,Male,6,1,0,1,1,0,0,0,0,0,0,0,1,0,Common Cold
+15,Male,10,0,0,0,0,1,0,1,1,1,0,0,1,0,Gastroenteritis
+23,Female,5,0,0,0,0,0,0,0,0,0,0,0,0,0,Gastroenteritis
+24,Male,5,0,0,0,0,0,0,1,1,0,1,0,1,0,Gastroenteritis
+55,Female,6,0,0,0,0,0,0,1,1,0,0,0,1,0,Migraine
+54,Other,10,1,0,0,0,0,0,1,0,0,0,1,1,0,Flu-like Illness
+20,Male,7,0,0,0,0,0,0,1,0,0,0,0,1,1,Migraine
+44,Female,9,0,0,0,0,0,0,0,0,0,1,0,1,0,Gastroenteritis
+33,Male,5,0,0,0,0,0,0,1,0,0,0,0,0,1,Migraine
+20,Male,1,0,0,0,0,0,0,0,1,0,1,0,0,0,Gastroenteritis
+28,Female,5,0,1,1,1,0,0,0,0,0,0,0,1,0,Common Cold
+26,Female,4,1,0,0,0,0,0,1,0,0,0,0,1,0,Migraine
+29,Male,9,0,0,0,1,0,0,1,1,0,0,0,1,1,Migraine
+27,Female,1,1,0,0,0,0,0,0,1,1,0,0,1,0,Gastroenteritis
+24,Male,6,1,0,0,0,0,0,0,0,1,0,0,1,0,Gastroenteritis
+33,Female,3,0,1,1,1,0,0,0,0,0,0,0,0,0,Common Cold
+34,Male,9,0,1,0,1,1,0,0,0,0,0,0,1,0,Common Cold
+32,Female,7,0,0,0,0,0,1,1,0,0,0,1,0,0,Migraine
+26,Male,2,0,1,0,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+22,Female,9,0,1,1,1,1,0,0,0,0,0,0,1,0,Common Cold
+40,Male,1,0,0,1,0,0,0,0,1,0,0,0,0,0,Flu-like Illness
+5,Female,6,0,1,1,1,0,0,1,0,0,0,0,0,0,Common Cold
+46,Male,6,1,1,1,1,0,0,1,0,0,0,0,1,0,Common Cold
+32,Female,9,1,1,1,0,0,0,0,0,0,0,1,1,0,Flu-like Illness
+64,Female,5,1,0,0,0,0,0,1,0,0,0,1,1,0,Flu-like Illness
+19,Female,3,0,0,0,0,0,0,1,1,0,0,1,1,1,Migraine
+40,Male,8,0,0,0,0,0,0,1,1,0,0,0,1,1,Migraine
+41,Male,6,0,0,1,0,0,0,1,1,0,0,0,0,1,Migraine
+3,Female,9,0,0,0,1,1,0,0,0,0,0,0,1,0,Seasonal Allergy
+19,Male,9,0,1,0,0,1,0,1,0,0,0,0,0,0,Common Cold
+22,Female,9,0,0,0,0,0,0,1,1,0,0,0,0,0,Migraine
+66,Female,7,0,0,0,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+53,Male,10,1,1,1,1,0,0,1,0,0,0,1,1,0,Flu-like Illness
+39,Male,4,0,1,1,1,0,0,1,0,1,0,0,1,0,Common Cold
+15,Female,2,0,0,0,0,0,0,1,1,0,0,0,1,1,Migraine
+28,Female,1,0,1,0,1,0,0,1,0,0,0,0,1,0,Common Cold
+36,Male,7,0,0,0,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+21,Male,8,0,0,0,0,0,0,1,1,0,0,0,0,1,Migraine
+12,Male,9,0,0,0,0,1,0,0,0,0,0,1,0,1,Migraine
+15,Female,2,0,1,0,1,1,0,0,0,0,0,0,1,0,Common Cold
+27,Female,3,0,0,0,0,0,0,0,1,0,1,0,1,0,Gastroenteritis
+37,Female,7,0,0,0,1,0,0,1,0,0,0,0,0,1,Migraine
+10,Female,4,1,0,0,0,0,0,0,1,0,1,1,1,0,Flu-like Illness
+15,Male,8,0,1,1,1,1,0,0,0,0,0,0,0,0,Common Cold
+32,Male,2,0,0,0,0,0,0,1,1,0,0,0,0,1,Migraine
+36,Male,8,0,1,0,1,0,1,0,0,0,0,0,0,0,Common Cold
+31,Female,7,0,0,0,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+52,Female,7,0,0,0,0,0,0,0,0,1,1,0,1,0,Gastroenteritis
+21,Male,7,1,1,0,1,1,0,0,0,0,0,1,0,0,Common Cold
+49,Female,10,1,1,0,1,1,0,0,0,0,0,0,0,0,Common Cold
+28,Female,2,1,0,0,0,0,0,0,1,1,1,0,0,0,Gastroenteritis
+40,Male,5,0,0,0,0,0,0,1,1,0,0,0,0,1,Migraine
+16,Male,3,0,1,0,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+3,Male,1,0,0,1,1,1,0,1,0,0,0,0,0,0,Seasonal Allergy
+30,Female,9,1,0,0,0,0,0,0,0,0,0,1,0,0,Flu-like Illness
+17,Female,6,0,0,0,0,0,0,1,0,0,0,0,1,1,Migraine
+32,Male,7,1,0,0,0,0,0,0,1,0,0,1,1,0,Flu-like Illness
+14,Male,6,0,0,0,0,0,0,1,1,0,0,0,0,1,Migraine
+23,Male,3,0,0,0,1,0,1,0,0,0,0,0,0,0,Seasonal Allergy
+41,Female,6,0,0,0,0,0,0,1,1,0,0,1,0,1,Migraine
+32,Female,10,0,0,0,0,0,0,0,0,0,0,0,0,1,Migraine
+24,Male,8,1,1,0,0,1,0,0,1,0,0,1,0,0,Flu-like Illness
+50,Male,4,1,0,0,0,0,0,0,0,1,0,1,0,0,Flu-like Illness
+19,Male,1,1,1,1,1,1,0,0,0,0,0,0,0,0,Common Cold
+30,Male,7,0,1,0,1,0,0,0,0,0,0,1,1,0,Flu-like Illness
+33,Female,5,1,0,0,0,0,0,0,0,0,0,1,1,0,Flu-like Illness
+30,Male,6,0,0,0,0,0,0,1,1,0,0,0,1,1,Migraine
+28,Other,3,0,0,0,0,0,0,0,1,0,0,0,0,1,Migraine
+41,Male,2,0,0,0,0,0,0,0,1,0,0,0,0,0,Gastroenteritis
+33,Female,9,0,0,0,0,1,0,0,1,1,1,1,0,0,Gastroenteritis
+39,Male,7,0,0,0,0,0,0,0,0,1,1,0,0,0,Gastroenteritis
+46,Male,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Common Cold
+52,Female,8,0,1,1,1,0,0,0,0,0,0,0,0,0,Common Cold
+25,Other,2,0,0,0,0,0,0,1,1,1,0,0,0,0,Migraine
+28,Male,6,1,1,1,1,0,0,1,0,0,1,0,1,0,Common Cold
+24,Male,9,0,0,0,0,0,0,1,1,0,0,0,1,0,Migraine
+41,Male,8,0,0,0,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+47,Male,4,1,0,0,0,0,0,1,0,0,0,0,1,0,Gastroenteritis
+1,Female,3,1,1,0,0,0,0,1,0,0,0,1,1,0,Flu-like Illness
+22,Female,1,0,0,0,0,0,0,0,1,1,1,0,1,0,Gastroenteritis
+19,Male,10,1,1,0,0,0,0,0,0,0,0,1,0,0,Flu-like Illness
+41,Male,6,0,0,0,1,1,0,0,0,0,0,0,0,0,Seasonal Allergy
+18,Female,3,1,0,0,1,0,0,0,1,0,0,1,1,0,Flu-like Illness
+15,Male,3,0,0,0,0,0,0,1,1,0,0,0,1,1,Migraine
+24,Female,3,1,0,0,0,0,0,0,1,1,0,0,1,0,Gastroenteritis
+13,Female,5,0,0,0,0,0,0,0,0,0,0,0,0,0,Common Cold
+49,Female,9,0,0,1,0,0,0,1,1,0,1,0,1,0,Gastroenteritis
+36,Female,6,0,1,1,1,0,0,0,0,0,0,0,0,0,Common Cold
+47,Male,5,0,0,0,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+41,Male,5,0,0,0,1,1,1,0,0,0,0,0,0,1,Seasonal Allergy
+6,Male,7,0,1,0,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+7,Male,3,0,0,0,0,0,0,0,1,0,0,1,1,0,Flu-like Illness
+5,Female,10,0,1,1,1,1,0,1,0,0,0,0,0,0,Common Cold
+33,Female,9,0,1,0,1,0,0,0,0,0,0,0,0,0,Common Cold
+25,Female,9,0,0,0,0,0,0,1,1,0,0,1,0,1,Migraine
+57,Male,3,1,0,1,0,0,0,0,0,0,0,1,0,0,Flu-like Illness
+61,Female,4,0,0,1,0,0,0,1,0,0,0,1,1,0,Flu-like Illness
+42,Male,6,0,0,0,0,0,0,1,1,0,0,0,0,1,Migraine
+55,Male,5,0,0,0,0,0,0,1,0,1,0,0,0,1,Migraine
+40,Female,3,0,0,0,0,0,0,0,1,1,1,0,0,0,Gastroenteritis
+3,Female,8,0,0,0,1,0,1,0,0,0,0,0,0,0,Seasonal Allergy
+27,Male,5,1,0,0,0,0,0,1,0,0,0,1,1,0,Flu-like Illness
+44,Male,6,1,1,1,0,0,0,0,0,1,1,1,1,0,Flu-like Illness
+1,Female,8,0,0,0,1,1,0,0,0,0,0,0,0,0,Seasonal Allergy
+36,Female,7,0,1,1,0,1,1,1,0,0,0,0,0,0,Common Cold
+45,Female,9,0,0,1,0,0,0,1,0,0,0,1,1,0,Flu-like Illness
+60,Female,3,1,1,1,0,0,0,1,0,0,0,0,1,0,Flu-like Illness
+32,Male,8,0,0,1,1,0,0,0,0,0,0,0,0,0,Common Cold
+29,Male,9,0,0,0,0,0,0,0,1,0,1,0,1,0,Gastroenteritis
+27,Female,7,1,0,1,0,0,0,0,0,1,0,1,1,0,Flu-like Illness
+53,Female,4,0,0,0,0,0,0,0,1,0,1,0,1,1,Gastroenteritis
+42,Female,6,0,0,0,0,0,0,0,1,1,1,0,0,1,Gastroenteritis
+4,Male,4,0,1,1,1,0,0,1,0,0,0,0,1,0,Common Cold
+10,Female,7,1,0,0,1,0,0,0,0,0,0,1,1,0,Flu-like Illness
+31,Male,5,1,1,1,0,0,0,0,0,0,0,0,1,0,Flu-like Illness
+17,Male,10,1,1,0,1,0,0,1,0,0,1,0,1,0,Common Cold
+40,Male,3,1,0,0,0,0,0,1,1,0,0,0,1,0,Gastroenteritis
+39,Female,4,0,0,0,0,1,0,1,1,1,1,0,1,0,Gastroenteritis
+34,Female,3,0,0,0,1,0,1,0,0,0,0,0,0,0,Seasonal Allergy
+41,Male,7,0,0,0,0,0,0,1,0,0,0,1,1,1,Migraine
+27,Male,7,0,0,1,1,1,0,1,0,0,0,0,1,0,Seasonal Allergy
+23,Male,1,0,0,0,0,0,0,0,1,0,1,1,1,0,Gastroenteritis
+5,Female,10,1,0,0,0,0,0,0,1,1,1,1,1,0,Gastroenteritis
+44,Female,3,0,0,0,0,0,0,0,1,1,1,0,1,0,Gastroenteritis
+32,Female,2,0,0,0,0,0,0,0,1,0,1,0,1,0,Gastroenteritis
+1,Male,9,0,1,1,1,0,0,0,0,0,0,0,0,0,Common Cold
+28,Male,3,1,0,0,0,0,0,0,0,0,0,0,0,0,Gastroenteritis
+41,Male,8,0,0,0,0,0,0,0,1,1,1,0,0,0,Gastroenteritis
+25,Male,5,1,0,0,0,0,0,0,1,1,0,0,1,0,Gastroenteritis
+12,Male,2,0,0,0,0,0,0,1,1,0,1,0,1,0,Gastroenteritis
+38,Male,10,0,0,0,1,1,0,0,0,0,0,0,0,0,Seasonal Allergy
+42,Female,10,1,1,0,0,0,1,1,0,0,0,0,0,0,Common Cold
+43,Female,1,1,1,0,0,0,0,0,0,0,0,1,1,0,Flu-like Illness
+43,Female,7,0,0,0,0,0,0,1,0,1,0,0,1,1,Migraine
+27,Female,10,1,1,0,0,0,0,0,0,0,0,1,1,0,Flu-like Illness
+5,Male,10,1,0,1,0,0,0,0,1,0,0,1,1,0,Flu-like Illness
+1,Female,6,1,0,0,0,0,0,1,0,0,0,0,0,1,Migraine
+40,Male,6,0,0,0,0,0,0,1,1,1,1,0,1,0,Gastroenteritis
+33,Male,2,0,0,0,1,0,1,0,0,1,0,0,0,0,Common Cold
+27,Female,1,1,0,0,0,0,0,0,0,1,0,0,0,0,Gastroenteritis
+40,Female,6,0,1,0,0,0,0,0,0,0,0,1,1,0,Flu-like Illness
+43,Male,2,0,0,0,1,0,1,1,1,0,0,0,0,1,Migraine
+50,Male,10,0,1,1,1,0,0,1,0,0,0,0,0,0,Common Cold
+10,Female,4,0,0,0,0,0,0,1,1,0,0,1,0,1,Migraine
+38,Male,1,0,0,0,1,0,0,1,1,0,0,0,0,1,Migraine
+58,Female,6,1,1,1,0,0,0,1,0,0,0,1,0,0,Flu-like Illness
+8,Male,3,1,0,0,1,0,0,1,0,0,1,0,1,0,Common Cold
+42,Female,9,1,0,0,0,0,0,1,0,1,1,0,1,0,Gastroenteritis
+31,Female,6,0,1,0,1,0,0,0,0,0,0,0,0,0,Seasonal Allergy
+34,Male,9,1,0,0,0,0,0,0,0,0,0,0,1,0,Flu-like Illness
+24,Female,10,0,0,0,1,1,1,0,0,1,0,0,0,0,Seasonal Allergy
+31,Male,9,0,0,0,1,0,0,0,0,0,1,1,0,0,Gastroenteritis
+42,Female,4,1,0,1,0,0,0,1,0,0,0,1,1,0,Flu-like Illness
+28,Other,3,0,1,0,0,0,0,0,1,0,0,1,1,0,Flu-like Illness
+19,Male,1,0,0,0,0,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+11,Male,2,1,1,0,0,0,0,0,0,0,0,1,1,0,Flu-like Illness
+21,Male,10,0,0,0,0,0,1,1,0,0,0,0,1,0,Migraine
+8,Male,2,0,1,0,1,1,1,0,0,0,0,0,1,0,Seasonal Allergy
+33,Female,8,0,0,0,0,0,0,0,1,0,0,0,0,1,Migraine
+12,Female,2,0,1,1,1,1,0,0,0,0,0,0,0,0,Common Cold
+50,Male,4,0,1,0,1,0,0,0,0,0,0,1,1,0,Flu-like Illness
+25,Female,5,0,0,0,0,0,0,1,0,0,0,0,0,0,Migraine
+39,Male,5,0,0,0,0,0,0,0,0,1,1,0,0,0,Gastroenteritis
+33,Male,4,0,0,0,0,0,0,0,1,0,0,0,1,1,Migraine
+19,Male,3,0,0,0,0,0,0,1,1,0,0,0,1,1,Migraine
+41,Male,8,0,0,0,0,0,0,1,0,0,0,1,0,1,Migraine
+24,Female,4,0,0,0,0,0,0,1,0,0,0,1,1,0,Migraine
+41,Male,1,0,0,0,1,1,0,0,0,1,0,0,1,0,Common Cold
+44,Female,2,0,0,0,0,0,0,1,0,0,0,0,0,1,Migraine
+30,Male,9,0,0,0,0,0,0,0,1,1,1,0,1,0,Gastroenteritis
+39,Female,7,0,1,1,1,0,1,0,0,0,0,0,0,0,Common Cold
+19,Male,10,1,0,0,0,0,0,0,0,0,0,0,1,0,Flu-like Illness
+38,Female,3,1,1,0,0,0,0,0,0,0,0,0,0,0,Common Cold
+30,Male,9,0,0,0,0,0,0,0,1,0,0,1,0,0,Gastroenteritis
+37,Male,8,0,0,0,0,0,0,1,0,1,0,1,1,1,Migraine
+45,Male,6,0,0,0,0,1,0,0,1,0,1,0,0,0,Gastroenteritis
+23,Male,9,0,1,1,1,0,0,0,0,0,0,1,1,0,Common Cold
+67,Female,10,0,0,0,0,0,0,1,1,0,0,0,1,1,Migraine
+31,Other,1,0,0,0,0,0,0,1,0,1,1,0,0,1,Gastroenteritis
+30,Female,5,0,1,0,1,1,0,1,0,0,0,1,0,0,Common Cold
+19,Male,2,0,0,0,0,0,0,1,1,0,0,0,0,1,Migraine
+33,Other,7,0,1,1,1,0,0,0,0,0,0,1,0,0,Common Cold
+30,Other,9,0,0,0,0,0,0,0,1,0,1,0,0,0,Gastroenteritis
+9,Female,9,0,0,0,1,0,0,1,1,0,0,1,1,1,Migraine
+11,Male,7,0,1,0,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+41,Male,6,0,0,0,0,0,0,0,1,1,1,0,0,0,Gastroenteritis
+29,Female,9,0,1,1,1,0,0,0,0,0,0,0,1,0,Common Cold
+2,Male,8,0,0,0,1,1,1,0,1,0,0,0,0,0,Seasonal Allergy
+33,Male,10,0,1,0,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+22,Male,4,0,0,0,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+16,Female,5,0,0,0,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+34,Female,4,0,0,0,0,0,0,0,0,1,1,1,1,0,Gastroenteritis
+29,Female,5,1,1,0,0,0,0,1,0,0,0,1,1,0,Flu-like Illness
+29,Male,6,1,1,0,1,0,0,0,0,0,0,0,1,0,Flu-like Illness
+28,Female,7,0,0,0,0,0,0,1,0,1,0,1,0,0,Migraine
+52,Male,9,1,0,0,0,0,0,1,1,0,0,0,0,0,Flu-like Illness
+39,Female,9,0,0,0,0,0,0,0,1,0,1,0,0,0,Gastroenteritis
+41,Male,2,1,1,1,0,0,1,0,0,0,0,0,1,0,Flu-like Illness
+23,Male,2,0,0,0,0,0,0,1,1,0,1,0,1,0,Gastroenteritis
+18,Female,8,0,0,0,0,0,0,0,1,1,0,1,0,0,Gastroenteritis
+20,Male,10,0,0,1,0,1,0,0,0,0,0,0,0,0,Seasonal Allergy
+29,Female,8,1,1,1,1,0,0,0,0,0,0,0,1,0,Common Cold
+58,Female,9,1,1,1,0,0,0,0,0,0,0,1,0,0,Common Cold
+48,Male,4,0,0,0,0,0,0,1,0,0,0,0,1,1,Migraine
+39,Male,1,0,0,0,0,0,0,0,0,1,0,0,1,0,Gastroenteritis
+31,Female,3,0,0,0,0,0,0,0,1,0,1,1,0,0,Gastroenteritis
+27,Male,6,1,0,0,0,0,0,1,1,0,1,0,0,0,Gastroenteritis
+46,Male,2,1,0,0,0,0,0,1,1,1,0,0,1,0,Gastroenteritis
+55,Male,1,1,0,0,0,0,0,1,1,0,1,0,0,0,Gastroenteritis
+24,Male,10,0,0,0,0,0,0,1,0,0,0,0,0,1,Migraine
+31,Male,4,0,1,0,1,1,1,1,1,0,0,0,0,0,Seasonal Allergy
+33,Male,2,1,0,0,0,0,0,0,0,0,1,1,1,0,Flu-like Illness
+21,Male,4,1,0,1,0,0,0,0,0,1,1,1,0,0,Gastroenteritis
+39,Female,4,0,0,1,0,0,0,1,1,0,0,1,1,0,Migraine
+32,Female,7,0,0,0,1,1,0,0,0,0,0,0,0,0,Seasonal Allergy
+51,Female,5,0,0,0,1,0,0,0,1,0,0,0,0,0,Common Cold
+21,Female,2,0,1,1,1,0,0,0,0,1,1,0,1,0,Common Cold
+37,Female,10,1,1,1,0,0,0,0,1,0,0,1,1,0,Flu-like Illness
+17,Female,4,0,0,0,0,0,0,1,0,1,1,0,0,0,Gastroenteritis
+6,Male,9,0,1,0,1,0,0,0,0,0,0,0,1,0,Common Cold
+11,Male,4,0,1,1,1,0,0,1,0,0,0,0,0,0,Common Cold
+42,Male,1,0,1,1,1,0,0,0,1,0,0,0,0,0,Common Cold
+29,Male,1,0,0,0,0,0,0,1,1,0,0,1,0,0,Migraine
+10,Female,10,0,0,0,0,0,0,1,1,0,0,0,0,1,Migraine
+31,Female,2,1,1,1,1,0,0,0,0,0,0,0,0,0,Common Cold
+12,Male,10,0,0,0,0,0,0,1,0,0,0,0,1,0,Gastroenteritis
+33,Female,10,0,0,0,1,1,0,0,0,0,0,1,1,0,Common Cold
+41,Male,4,0,0,0,0,0,0,1,1,0,0,0,1,1,Migraine
+23,Female,5,0,1,0,1,0,0,0,0,0,0,1,0,0,Common Cold
+30,Male,3,0,1,1,1,0,0,1,0,0,0,0,1,0,Common Cold
+25,Male,10,1,0,1,0,0,0,0,1,0,0,1,1,0,Flu-like Illness
+56,Female,6,1,0,0,1,0,0,1,0,0,0,0,1,0,Common Cold
+22,Female,4,0,0,0,0,0,0,0,1,0,0,0,1,1,Migraine
+31,Female,5,0,0,0,0,0,0,0,1,1,1,0,0,0,Gastroenteritis
+7,Female,8,1,1,1,1,0,0,0,1,0,0,0,0,0,Common Cold
+6,Female,9,0,1,1,1,0,1,0,0,0,0,0,1,0,Common Cold
+23,Female,6,0,0,0,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+16,Male,8,0,0,0,1,0,0,0,0,0,0,0,0,0,Common Cold
+18,Male,5,1,1,0,1,0,1,0,0,0,0,0,1,0,Common Cold
+18,Female,6,0,0,0,1,1,0,0,0,0,0,0,0,0,Seasonal Allergy
+44,Female,6,1,1,0,0,0,0,1,0,0,0,1,1,0,Flu-like Illness
+20,Male,5,0,0,0,1,1,1,0,0,0,0,0,1,0,Seasonal Allergy
+8,Male,10,0,0,1,0,0,0,0,1,0,0,1,1,0,Flu-like Illness
+36,Male,10,0,0,0,0,0,0,0,1,0,1,0,0,0,Gastroenteritis
+32,Female,2,0,0,0,1,0,1,0,0,0,0,0,0,0,Seasonal Allergy
+12,Female,3,0,1,1,1,0,0,0,0,0,0,1,1,0,Common Cold
+41,Male,3,1,1,1,0,0,0,0,1,0,0,1,1,0,Flu-like Illness
+26,Female,5,0,0,0,1,1,1,0,1,0,0,0,0,0,Seasonal Allergy
+42,Male,6,1,1,0,0,0,0,1,0,0,0,0,1,0,Flu-like Illness
+18,Female,7,1,0,0,0,0,0,1,1,0,1,0,0,0,Gastroenteritis
+22,Male,6,0,0,1,0,0,0,0,0,1,0,1,1,1,Flu-like Illness
+46,Female,9,0,0,0,0,0,0,1,0,0,0,1,1,1,Migraine
+48,Female,8,0,0,0,0,0,0,1,0,0,0,0,1,1,Migraine
+33,Female,6,1,0,0,0,0,0,0,0,0,0,1,1,0,Flu-like Illness
+77,Female,10,1,1,0,1,0,0,0,0,0,0,1,0,0,Common Cold
+24,Female,9,1,1,0,0,0,0,0,0,0,0,0,0,0,Flu-like Illness
+41,Female,9,0,0,0,0,0,0,0,1,0,0,0,1,0,Gastroenteritis
+29,Male,2,0,1,0,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+47,Female,10,1,0,0,0,0,0,0,0,0,0,1,0,0,Flu-like Illness
+18,Female,7,1,0,1,0,0,0,1,1,0,1,0,1,0,Gastroenteritis
+8,Female,8,0,0,0,0,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+15,Female,7,0,0,0,0,0,0,1,1,0,1,0,0,0,Gastroenteritis
+72,Female,10,0,0,0,0,0,0,1,1,0,0,0,1,1,Migraine
+10,Female,10,0,0,0,0,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+37,Female,10,0,1,1,1,0,0,0,0,0,0,0,0,0,Common Cold
+32,Male,8,0,1,0,1,0,1,0,0,0,0,0,0,0,Common Cold
+34,Female,10,1,1,0,0,0,0,1,0,0,0,1,1,0,Flu-like Illness
+47,Male,2,0,0,0,0,0,0,1,1,0,0,0,1,1,Migraine
+1,Male,8,0,0,1,0,0,0,1,1,0,0,0,0,0,Migraine
+27,Male,10,0,0,0,0,0,0,1,1,1,1,0,1,0,Gastroenteritis
+11,Female,4,1,0,0,0,0,0,1,1,1,1,1,1,0,Gastroenteritis
+23,Male,9,1,0,0,0,0,0,0,1,0,1,1,0,0,Gastroenteritis
+31,Female,4,0,1,1,1,0,1,0,1,0,0,0,0,0,Common Cold
+30,Female,10,1,0,0,0,0,0,1,0,0,0,0,0,1,Migraine
+13,Female,4,0,0,0,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+37,Female,8,1,0,0,0,0,0,1,1,1,0,1,0,0,Gastroenteritis
+30,Female,10,0,0,0,0,0,0,0,1,1,0,1,0,0,Gastroenteritis
+48,Male,2,0,0,0,0,0,0,1,1,0,0,0,0,1,Migraine
+36,Female,3,0,0,0,0,0,0,1,0,1,0,1,0,1,Migraine
+31,Male,10,0,0,0,1,1,0,1,0,0,1,0,0,0,Common Cold
+34,Male,5,0,0,0,0,0,0,1,1,0,0,1,0,1,Migraine
+47,Male,6,0,0,0,0,0,0,1,0,0,0,0,0,0,Migraine
+42,Female,2,1,1,0,0,0,0,1,0,0,0,0,1,0,Flu-like Illness
+48,Female,2,0,0,0,0,0,0,1,1,0,0,0,1,1,Migraine
+42,Female,10,1,1,0,0,0,0,0,0,0,0,1,1,0,Flu-like Illness
+26,Male,6,0,0,1,0,0,1,1,1,0,0,1,0,1,Migraine
+17,Male,3,0,0,1,0,0,0,0,0,0,0,0,0,1,Migraine
+25,Female,4,0,0,0,1,0,0,1,0,0,0,0,0,0,Seasonal Allergy
+25,Female,2,0,0,0,0,0,0,1,0,0,0,0,1,1,Migraine
+33,Female,10,0,0,0,0,0,0,1,0,0,0,0,1,1,Migraine
+23,Other,8,1,1,0,0,0,0,0,0,0,0,1,1,0,Flu-like Illness
+35,Female,4,0,0,1,1,0,0,0,0,0,1,0,1,0,Common Cold
+41,Female,7,0,0,0,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+37,Male,9,0,0,0,0,0,0,1,1,1,0,1,1,0,Migraine
+28,Female,7,0,0,0,0,0,0,0,1,0,1,0,0,0,Gastroenteritis
+1,Male,7,0,0,0,0,0,0,1,1,1,1,0,0,0,Gastroenteritis
+41,Female,9,0,0,0,0,0,0,0,0,1,1,0,1,0,Gastroenteritis
+10,Male,6,1,1,0,0,0,0,1,0,1,0,1,1,0,Flu-like Illness
+35,Male,5,0,0,0,0,0,0,1,0,0,0,0,0,1,Migraine
+53,Male,2,0,0,0,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+35,Male,10,0,0,0,0,0,0,0,0,1,0,0,1,0,Gastroenteritis
+41,Male,9,0,0,0,0,0,0,0,1,0,1,0,1,0,Gastroenteritis
+17,Male,1,0,1,0,1,1,0,0,0,0,0,0,0,0,Common Cold
+63,Male,7,0,0,0,0,0,0,0,0,0,0,1,1,0,Migraine
+26,Female,6,1,1,0,0,0,0,1,0,0,0,1,1,0,Flu-like Illness
+52,Male,2,1,0,0,1,0,0,1,0,0,0,1,1,0,Flu-like Illness
+39,Male,2,0,0,0,0,0,0,0,1,0,0,0,0,1,Migraine
+30,Male,6,0,0,0,0,0,0,0,0,1,1,1,0,0,Gastroenteritis
+50,Female,1,1,1,0,0,0,0,0,0,0,0,1,1,0,Flu-like Illness
+62,Female,7,1,1,1,0,0,0,0,0,0,0,1,1,0,Flu-like Illness
+27,Other,6,0,0,0,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+28,Male,5,0,1,1,1,1,0,0,0,0,0,0,0,0,Common Cold
+40,Female,7,1,1,0,1,1,0,0,0,0,0,0,0,0,Common Cold
+47,Male,10,0,0,1,1,0,0,0,0,0,0,0,0,0,Common Cold
+25,Female,4,0,0,0,0,0,0,0,1,1,1,0,1,0,Gastroenteritis
+47,Male,4,1,0,0,0,0,0,1,0,0,1,1,1,0,Flu-like Illness
+29,Female,2,0,0,0,0,0,0,1,0,0,0,0,0,1,Migraine
+26,Female,10,1,0,1,1,0,0,0,0,0,0,0,0,0,Common Cold
+33,Male,8,1,0,1,0,0,0,0,0,0,0,1,0,0,Flu-like Illness
+44,Female,10,1,0,0,0,0,1,1,1,0,0,1,1,0,Flu-like Illness
+53,Female,10,0,1,0,1,0,0,1,0,0,0,0,1,0,Common Cold
+45,Male,2,0,0,1,0,0,0,1,0,0,0,1,1,0,Flu-like Illness
+32,Female,5,0,0,0,0,0,0,1,0,0,0,1,1,1,Migraine
+34,Female,10,1,1,0,0,0,0,0,0,0,0,1,0,0,Flu-like Illness
+17,Female,8,0,1,0,1,0,0,0,1,0,0,0,1,0,Common Cold
+11,Female,4,0,1,0,1,1,1,1,0,0,0,0,0,0,Seasonal Allergy
+32,Male,5,0,0,0,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+48,Male,7,0,0,0,0,0,0,1,1,1,1,0,0,0,Gastroenteritis
+22,Female,10,0,1,0,1,0,1,1,0,0,0,1,0,0,Common Cold
+3,Male,6,0,0,0,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+28,Female,6,0,0,0,1,1,1,1,0,0,0,0,0,0,Seasonal Allergy
+26,Male,9,0,0,0,0,0,0,1,1,0,0,0,1,1,Migraine
+12,Male,9,1,1,0,0,0,0,0,0,0,0,1,1,0,Flu-like Illness
+4,Male,4,0,1,0,1,0,0,0,0,0,0,0,1,0,Common Cold
+56,Female,6,0,0,0,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+42,Male,7,1,1,1,1,0,0,1,0,0,0,1,0,0,Common Cold
+33,Female,8,0,0,0,0,0,0,1,0,0,0,0,1,1,Migraine
+51,Female,9,0,0,0,0,0,0,1,1,1,1,0,0,1,Gastroenteritis
+20,Female,4,0,0,0,0,0,0,1,1,0,0,0,0,1,Migraine
+20,Male,9,0,1,0,1,0,0,0,0,0,0,0,1,0,Common Cold
+25,Male,7,0,0,0,1,1,0,0,0,0,0,0,0,0,Seasonal Allergy
+17,Male,9,0,0,0,0,0,0,0,1,0,1,0,1,0,Gastroenteritis
+17,Male,4,0,0,0,1,1,0,0,0,0,0,0,0,0,Seasonal Allergy
+29,Female,9,0,0,0,0,0,0,1,1,0,0,0,1,1,Migraine
+13,Female,3,0,0,0,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+32,Female,5,1,0,0,0,1,0,1,0,0,0,1,1,0,Flu-like Illness
+29,Male,6,0,0,0,0,0,0,0,1,0,0,0,0,1,Migraine
+42,Female,4,1,0,0,0,0,0,0,0,1,1,0,0,0,Gastroenteritis
+28,Male,1,0,0,0,1,1,0,0,0,0,0,0,0,0,Seasonal Allergy
+47,Male,10,1,0,1,0,0,0,1,0,0,0,1,1,0,Flu-like Illness
+50,Female,10,0,0,0,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+18,Male,1,0,1,1,1,0,0,0,0,0,0,0,0,0,Common Cold
+28,Male,2,1,1,0,1,0,0,1,0,0,0,0,0,0,Common Cold
+37,Male,8,0,0,0,0,0,0,0,1,0,0,0,0,1,Migraine
+40,Male,9,1,0,0,0,0,0,1,0,0,1,0,1,0,Gastroenteritis
+4,Male,7,0,0,0,0,0,0,1,1,0,0,0,0,1,Migraine
+16,Male,3,1,1,1,1,0,1,0,0,1,0,0,0,0,Common Cold
+29,Male,8,0,0,0,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+9,Male,10,1,1,0,0,0,0,0,0,0,0,1,1,0,Flu-like Illness
+50,Female,9,0,0,0,0,0,0,1,0,0,0,0,0,0,Migraine
+13,Female,3,0,0,0,0,0,0,0,1,1,1,0,0,0,Gastroenteritis
+33,Male,6,1,0,0,0,0,0,1,0,0,0,1,1,0,Flu-like Illness
+23,Male,6,1,1,1,1,0,0,1,1,0,0,0,1,0,Flu-like Illness
+33,Male,3,1,1,0,0,0,0,1,1,0,0,1,1,0,Flu-like Illness
+38,Male,2,1,0,0,0,0,0,0,0,0,0,0,1,0,Flu-like Illness
+53,Male,5,0,0,0,0,0,0,0,1,1,0,0,0,0,Gastroenteritis
+33,Male,4,1,0,0,1,1,1,0,1,0,0,0,0,0,Common Cold
+50,Female,4,1,0,0,0,0,0,0,1,0,0,0,1,0,Gastroenteritis
+21,Male,10,0,0,0,0,0,0,0,1,0,0,0,1,0,Gastroenteritis
+9,Male,6,0,0,0,0,0,0,0,1,0,1,0,0,0,Gastroenteritis
+17,Female,7,0,1,0,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+34,Female,5,0,0,0,1,1,1,0,0,0,0,0,1,0,Seasonal Allergy
+15,Male,6,1,0,1,0,0,0,0,1,0,0,1,1,0,Flu-like Illness
+56,Female,7,0,1,1,1,0,0,0,0,0,1,1,0,0,Common Cold
+9,Male,9,1,0,1,1,1,0,0,0,0,0,0,0,0,Common Cold
+35,Male,8,1,0,0,0,0,0,1,1,1,1,1,1,0,Gastroenteritis
+29,Male,8,1,1,1,1,0,0,1,0,0,0,1,1,0,Flu-like Illness
+16,Female,1,0,1,0,1,1,1,1,0,0,0,0,0,1,Seasonal Allergy
+56,Female,9,1,1,0,1,0,0,0,1,0,0,0,1,0,Flu-like Illness
+30,Male,7,0,1,1,0,0,0,0,0,0,0,0,0,1,Common Cold
+29,Male,5,1,0,0,0,0,0,0,0,0,1,1,1,0,Flu-like Illness
+24,Male,2,0,0,0,0,0,0,0,0,0,0,0,0,1,Migraine
+35,Female,6,0,1,0,1,0,0,1,0,0,0,0,1,0,Common Cold
+28,Male,1,0,0,0,0,0,0,1,1,0,0,0,1,1,Migraine
+35,Female,5,1,1,1,0,0,0,1,0,0,0,1,1,0,Flu-like Illness
+43,Female,7,0,1,1,1,0,0,0,0,0,0,0,0,0,Common Cold
+50,Female,1,0,1,1,1,0,0,0,0,0,0,0,0,0,Common Cold
+34,Female,8,0,1,0,0,0,0,0,1,1,0,1,0,0,Gastroenteritis
+36,Female,10,0,0,0,1,1,0,0,0,0,0,0,0,0,Seasonal Allergy
+22,Female,5,0,1,0,0,1,0,0,0,0,0,0,0,0,Seasonal Allergy
+23,Male,3,0,0,0,0,0,0,1,1,0,0,0,0,1,Migraine
+22,Female,8,0,1,0,0,1,1,1,0,0,0,0,0,0,Seasonal Allergy
+10,Other,1,0,0,0,0,0,0,1,1,0,0,1,1,1,Migraine
+31,Female,9,0,0,0,1,1,1,0,0,0,0,0,0,1,Seasonal Allergy
+42,Female,7,0,0,0,0,1,0,0,0,0,0,0,0,0,Seasonal Allergy
+47,Female,7,0,1,1,1,0,0,0,0,0,0,0,1,0,Common Cold
+28,Female,3,0,0,0,1,0,1,0,1,0,0,0,0,0,Seasonal Allergy
+20,Male,9,0,0,0,0,0,0,1,1,0,1,0,0,0,Gastroenteritis
+31,Female,1,1,0,0,0,0,0,1,1,0,0,0,0,1,Migraine
+31,Female,8,0,0,0,1,1,0,0,0,0,0,0,0,0,Seasonal Allergy
+26,Female,2,1,1,0,0,0,0,0,0,0,0,1,1,0,Flu-like Illness
+8,Female,3,0,0,0,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+57,Female,3,0,0,0,0,0,0,1,1,0,1,1,1,0,Gastroenteritis
+27,Other,5,0,0,0,0,0,0,0,0,0,1,0,0,0,Gastroenteritis
+37,Other,10,0,0,0,0,1,0,0,1,1,0,0,1,0,Gastroenteritis
+8,Male,10,0,0,1,1,0,0,0,0,0,0,0,0,0,Common Cold
+32,Female,10,0,0,0,1,1,0,1,0,0,0,0,0,0,Seasonal Allergy
+33,Male,10,0,0,0,1,1,0,0,0,0,0,0,0,0,Seasonal Allergy
+49,Male,1,0,0,0,0,0,0,1,1,0,1,0,0,0,Gastroenteritis
+30,Male,1,1,1,1,0,0,0,1,0,0,0,1,1,0,Flu-like Illness
+38,Female,3,0,0,0,0,0,0,0,1,0,0,0,1,0,Migraine
+7,Female,10,1,1,0,0,0,0,0,1,0,0,1,1,0,Flu-like Illness
+39,Female,8,0,1,1,1,0,0,1,1,1,0,0,1,0,Common Cold
+2,Female,3,1,0,0,0,0,0,0,0,1,1,1,0,0,Gastroenteritis
+31,Female,3,1,0,1,0,0,0,0,1,0,1,0,0,0,Gastroenteritis
+24,Male,9,0,0,0,0,0,0,1,1,0,0,1,1,1,Migraine
+35,Male,10,1,1,0,0,0,0,1,0,0,0,1,1,0,Flu-like Illness
+10,Male,10,0,0,0,1,0,1,0,0,0,0,0,0,0,Seasonal Allergy
+28,Female,7,0,0,0,0,0,0,1,1,0,0,0,0,1,Migraine
+17,Male,10,0,0,0,0,0,0,0,1,0,1,0,0,0,Gastroenteritis
+56,Female,10,0,1,0,1,0,0,0,0,0,0,0,0,0,Common Cold
+44,Male,5,0,0,0,1,1,0,0,0,0,0,0,0,0,Seasonal Allergy
+30,Female,7,1,0,1,1,1,0,0,0,0,0,0,1,0,Common Cold
+50,Female,9,0,0,0,1,1,0,0,0,0,0,0,0,0,Seasonal Allergy
+19,Male,7,0,1,1,1,1,0,0,0,0,0,0,0,0,Common Cold
+25,Male,9,0,0,0,0,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+42,Female,10,0,0,0,1,1,0,1,0,0,1,1,1,0,Common Cold
+25,Female,6,1,0,1,0,0,0,0,1,0,0,0,1,0,Flu-like Illness
+3,Female,10,0,1,0,1,1,0,0,0,0,0,0,1,0,Seasonal Allergy
+19,Male,3,0,1,1,1,0,0,0,0,0,0,0,0,0,Common Cold
+22,Male,9,1,1,0,0,0,0,1,1,0,0,1,1,0,Flu-like Illness
+16,Male,4,1,0,0,0,0,0,1,1,1,1,0,1,0,Gastroenteritis
+9,Male,10,0,1,1,1,1,0,0,0,1,0,0,1,0,Common Cold
+47,Male,6,1,1,1,1,0,0,0,0,0,0,0,0,0,Common Cold
+31,Male,1,0,0,0,0,0,0,1,0,0,0,1,0,0,Migraine
+21,Female,3,0,0,1,0,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+36,Female,7,0,0,0,1,0,1,0,0,0,0,0,1,0,Seasonal Allergy
+19,Male,1,0,1,0,1,0,0,1,0,0,0,0,0,0,Common Cold
+57,Male,9,0,0,0,0,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+22,Female,8,0,0,0,0,1,0,0,0,0,0,0,0,0,Seasonal Allergy
+36,Female,3,0,1,0,0,0,0,0,1,0,1,0,1,0,Gastroenteritis
+37,Female,3,1,1,1,0,1,0,0,0,0,0,1,1,0,Flu-like Illness
+54,Male,2,1,0,1,1,0,0,0,0,0,0,1,0,0,Flu-like Illness
+10,Male,7,0,0,0,0,0,0,0,1,1,0,0,0,0,Gastroenteritis
+20,Male,6,0,0,0,1,1,0,0,0,0,0,0,1,0,Seasonal Allergy
+56,Female,10,0,0,0,1,0,0,0,1,1,0,0,0,0,Gastroenteritis
+51,Female,5,0,0,0,0,0,0,0,1,0,1,0,0,0,Gastroenteritis
+36,Female,1,0,1,0,0,0,0,1,0,0,0,1,1,1,Migraine
+10,Male,8,0,0,1,0,0,0,0,1,1,1,0,0,0,Gastroenteritis
+2,Female,9,0,0,0,0,0,0,1,1,0,0,0,0,1,Migraine
+15,Male,1,0,0,0,0,0,0,1,1,0,0,0,0,0,Migraine
+21,Male,3,0,0,0,0,1,0,1,0,0,0,0,0,1,Migraine
+29,Male,8,0,0,1,0,0,0,0,0,1,0,1,1,0,Flu-like Illness
+25,Male,6,1,1,0,0,0,0,0,0,0,0,1,1,0,Flu-like Illness
+29,Male,10,1,1,1,0,0,1,0,0,0,1,1,0,0,Flu-like Illness
+18,Female,8,0,0,0,0,0,0,0,1,0,1,0,1,0,Gastroenteritis
+48,Female,2,1,0,1,0,0,0,0,1,0,0,1,1,0,Flu-like Illness
+28,Female,1,1,0,0,0,0,0,0,1,0,0,1,1,0,Flu-like Illness
+11,Male,6,0,1,1,1,0,0,0,0,0,0,1,0,0,Common Cold
+21,Male,6,0,0,0,0,0,0,0,0,0,0,1,1,1,Flu-like Illness
+26,Male,5,0,0,0,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+45,Female,5,0,0,0,0,0,0,1,1,0,1,0,0,0,Gastroenteritis
+55,Female,10,0,0,1,1,0,0,0,0,0,0,0,0,0,Common Cold
+45,Male,5,0,1,1,1,1,0,1,0,0,0,0,0,0,Common Cold
+12,Male,2,0,0,0,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+21,Female,9,0,0,0,0,0,0,0,1,1,1,0,0,0,Gastroenteritis
+44,Female,6,1,1,0,0,0,0,1,0,0,0,1,0,0,Flu-like Illness
+25,Male,7,0,0,0,1,1,1,0,0,0,0,0,1,0,Seasonal Allergy
+17,Female,10,0,1,1,1,1,0,1,0,0,0,0,0,0,Common Cold
+25,Male,2,1,1,1,1,0,0,0,0,0,0,1,1,0,Flu-like Illness
+43,Male,10,1,1,1,0,0,0,1,0,0,0,1,1,0,Flu-like Illness
+33,Male,5,1,1,1,1,0,0,1,0,0,0,0,1,0,Common Cold
+45,Male,4,1,0,0,0,0,0,1,1,0,0,0,0,1,Migraine
+39,Female,8,0,0,0,0,0,1,1,1,0,0,0,0,0,Migraine
+31,Female,6,1,1,1,0,0,0,0,0,0,0,1,1,0,Flu-like Illness
+48,Male,9,0,0,0,0,0,0,1,0,0,0,0,1,1,Migraine
+14,Male,5,0,1,1,0,0,0,0,0,0,0,0,0,0,Common Cold
+41,Male,9,0,0,0,0,0,0,1,1,0,0,1,1,1,Migraine
+14,Male,8,1,0,0,0,0,0,1,1,1,1,1,0,0,Gastroenteritis
+22,Female,1,0,1,0,0,0,1,0,1,1,0,1,0,1,Migraine
+24,Female,7,0,1,1,1,0,1,0,0,0,0,1,1,0,Common Cold
+47,Female,2,0,0,0,0,0,1,0,1,0,0,0,0,0,Migraine
+25,Female,4,0,0,0,0,0,0,0,0,0,1,1,1,0,Flu-like Illness
+33,Male,8,1,1,1,1,0,0,1,0,0,0,1,0,0,Flu-like Illness
+34,Female,5,1,0,1,0,0,0,0,0,0,0,1,1,1,Flu-like Illness
+33,Male,9,0,0,0,1,1,0,0,0,0,0,0,0,0,Seasonal Allergy
+21,Female,1,0,0,0,0,0,0,0,1,1,1,0,1,0,Gastroenteritis
+30,Male,4,1,0,1,1,0,0,0,0,0,0,0,0,0,Common Cold
+7,Female,7,0,1,1,1,1,0,0,0,0,0,0,0,0,Common Cold
+26,Male,5,0,0,0,1,0,0,1,1,0,0,1,1,0,Flu-like Illness
+16,Male,3,0,0,0,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+52,Male,8,0,0,0,0,0,0,1,1,0,0,0,1,1,Migraine
+38,Female,9,0,0,0,0,0,0,1,1,0,0,0,0,1,Migraine
+8,Female,7,0,0,0,0,0,0,1,0,0,0,0,1,1,Migraine
+40,Male,10,1,1,1,1,0,0,0,0,0,0,1,1,0,Common Cold
+23,Female,10,1,0,1,0,0,0,0,0,0,0,1,0,0,Flu-like Illness
+20,Female,6,0,1,0,1,0,0,1,0,0,0,0,1,0,Common Cold
+25,Male,5,1,1,0,0,0,0,1,0,0,0,1,1,0,Flu-like Illness
+22,Female,2,0,0,0,0,0,0,1,1,0,0,0,1,1,Migraine
+48,Male,9,0,0,0,0,0,0,1,0,1,1,0,0,0,Gastroenteritis
+27,Male,1,0,0,0,0,1,1,0,0,0,1,0,0,0,Seasonal Allergy
+21,Male,6,0,1,0,1,1,1,1,0,0,0,0,0,0,Seasonal Allergy
+1,Female,7,1,1,1,1,0,0,0,0,0,0,0,0,0,Common Cold
+40,Male,6,0,0,0,1,1,1,1,0,0,0,0,1,0,Seasonal Allergy
+41,Male,3,0,0,0,1,0,1,0,0,0,0,0,1,0,Seasonal Allergy
+40,Female,4,1,0,0,0,0,0,0,0,0,0,0,1,0,Flu-like Illness
+51,Male,1,0,1,1,1,1,1,1,0,0,0,0,1,0,Common Cold
+32,Female,2,0,0,0,0,0,0,1,0,0,0,1,1,1,Migraine
+32,Female,1,0,0,0,0,0,0,1,1,0,0,0,0,1,Migraine
+33,Male,6,1,0,1,0,0,0,0,0,0,0,1,0,0,Flu-like Illness
+15,Female,6,0,0,0,1,0,1,1,0,0,0,0,0,0,Seasonal Allergy
+11,Female,9,0,0,0,0,0,0,1,1,0,0,0,1,1,Migraine
+31,Male,7,0,0,1,1,0,0,0,0,0,0,0,0,0,Common Cold
+42,Male,10,0,0,1,1,1,1,0,0,0,0,0,1,0,Seasonal Allergy
+34,Male,5,0,0,0,0,0,0,1,0,0,0,0,1,1,Migraine
+14,Male,2,1,1,0,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+44,Male,4,0,0,0,0,0,0,0,1,1,1,0,1,0,Gastroenteritis
+39,Male,5,0,0,0,1,0,0,0,0,0,0,1,1,0,Seasonal Allergy
+41,Female,3,1,1,0,0,0,0,1,1,1,0,1,0,0,Flu-like Illness
+45,Female,8,0,0,0,0,0,0,0,1,1,0,0,1,0,Gastroenteritis
+47,Male,4,0,0,0,0,0,0,1,0,0,0,1,0,0,Flu-like Illness
+15,Male,7,1,0,1,1,0,0,0,0,0,1,0,0,1,Flu-like Illness
+25,Female,1,0,0,0,0,0,0,1,1,1,0,1,1,0,Gastroenteritis
+33,Female,9,0,0,0,0,0,0,1,0,0,0,0,0,1,Migraine
+7,Male,10,0,1,0,0,0,1,0,0,0,0,0,0,0,Common Cold
+40,Male,5,0,0,0,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+34,Male,10,0,0,0,0,0,0,1,1,0,0,0,1,1,Migraine
+20,Male,7,0,0,0,0,0,0,0,0,0,0,0,0,1,Migraine
+51,Female,4,1,0,0,0,0,0,1,1,0,0,1,0,0,Flu-like Illness
+20,Female,10,0,0,0,0,0,0,1,1,0,0,1,0,1,Migraine
+26,Male,3,1,0,0,0,0,0,0,0,0,0,1,1,0,Flu-like Illness
+33,Female,5,0,1,1,1,0,0,0,0,0,0,0,0,0,Common Cold
+13,Female,3,1,1,1,0,0,0,0,0,0,0,1,1,0,Flu-like Illness
+16,Male,6,0,0,0,0,0,0,0,1,0,1,0,1,0,Gastroenteritis
+44,Female,2,0,1,0,0,0,0,1,1,0,0,0,1,1,Migraine
+16,Female,1,0,0,0,0,0,0,1,1,0,0,0,1,0,Migraine
+36,Female,7,0,0,1,0,0,0,1,0,1,0,0,0,0,Gastroenteritis
+21,Male,3,1,1,1,0,0,0,0,0,0,0,1,1,0,Flu-like Illness
+27,Female,9,0,0,0,1,1,0,0,0,0,0,0,1,1,Seasonal Allergy
+35,Female,5,1,0,0,0,0,0,0,0,1,1,0,0,1,Gastroenteritis
+47,Female,10,0,0,0,0,1,0,0,0,0,1,0,0,0,Gastroenteritis
+20,Female,1,0,1,0,1,0,0,1,1,0,0,1,1,0,Common Cold
+54,Female,5,1,0,0,0,0,0,1,0,0,0,1,1,0,Flu-like Illness
+41,Male,7,0,1,1,1,0,1,0,0,0,0,0,1,0,Common Cold
+1,Male,4,0,1,1,0,1,0,0,0,0,0,0,0,0,Common Cold
+15,Male,8,0,0,0,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+39,Female,6,0,0,0,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+26,Female,8,0,1,0,1,1,1,0,0,1,0,0,0,0,Seasonal Allergy
+21,Female,1,1,1,1,1,1,0,1,0,0,0,0,0,0,Common Cold
+45,Female,6,0,0,0,0,0,0,1,0,0,0,1,0,0,Migraine
+1,Female,5,0,0,0,0,0,0,0,1,0,0,1,0,0,Gastroenteritis
+13,Female,3,0,0,0,0,0,0,1,0,0,0,0,1,0,Migraine
+25,Male,7,0,0,0,0,0,0,0,1,1,1,0,0,0,Gastroenteritis
+38,Male,8,0,1,1,0,0,0,0,0,0,0,0,1,0,Flu-like Illness
+40,Male,7,0,1,1,0,1,0,0,0,0,0,0,0,0,Common Cold
+42,Male,1,0,0,0,1,1,0,0,0,0,0,0,0,0,Seasonal Allergy
+44,Female,8,1,0,0,0,0,0,0,1,1,0,0,1,0,Gastroenteritis
+22,Female,2,0,0,0,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+19,Male,4,1,0,0,0,0,0,0,1,0,0,0,0,0,Gastroenteritis
+34,Male,1,0,0,0,0,0,0,0,1,1,0,0,0,0,Gastroenteritis
+25,Female,3,0,0,0,0,0,0,1,0,0,0,1,0,0,Gastroenteritis
+9,Female,2,0,0,0,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+37,Female,2,1,0,0,0,0,0,1,1,1,0,0,0,0,Gastroenteritis
+39,Female,7,1,1,1,0,0,0,1,0,0,0,1,1,0,Flu-like Illness
+44,Female,7,0,0,0,0,0,0,1,1,0,0,1,0,1,Migraine
+43,Female,4,0,0,0,0,0,0,1,0,0,0,1,0,1,Migraine
+36,Female,7,0,0,0,0,0,0,0,1,0,1,1,1,1,Migraine
+14,Male,3,0,0,0,0,0,0,0,1,1,1,0,1,0,Gastroenteritis
+29,Male,9,1,1,1,0,0,0,0,0,0,0,1,1,0,Flu-like Illness
+44,Female,2,0,0,0,0,0,0,0,1,1,0,0,0,0,Gastroenteritis
+47,Female,9,0,0,0,0,1,0,1,0,0,0,0,0,0,Common Cold
+30,Male,6,0,0,0,0,0,0,1,0,0,0,0,1,0,Migraine
+30,Male,9,0,0,0,0,0,0,0,1,1,1,0,0,0,Gastroenteritis
+1,Male,3,0,1,0,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+30,Female,7,1,0,0,0,0,0,0,1,0,1,1,0,0,Gastroenteritis
+25,Male,2,1,1,1,1,0,0,0,0,0,0,0,1,0,Common Cold
+13,Female,3,0,0,0,0,0,0,1,1,0,0,0,1,0,Migraine
+42,Male,8,0,0,1,0,0,0,0,1,0,1,0,0,0,Gastroenteritis
+29,Female,8,0,0,0,1,1,1,0,0,0,0,0,0,0,Common Cold
+26,Female,6,0,0,0,0,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+34,Male,8,0,0,0,0,0,0,1,0,0,0,0,1,1,Migraine
+45,Male,2,0,1,0,0,1,0,1,0,0,0,0,0,0,Common Cold
+30,Female,4,0,0,0,0,0,0,1,1,0,0,0,0,1,Migraine
+32,Male,3,0,1,1,1,0,0,0,0,0,0,0,0,0,Common Cold
+23,Female,6,1,1,0,0,1,0,1,0,0,0,1,1,0,Flu-like Illness
+34,Female,4,0,1,1,1,0,0,0,0,0,0,0,0,0,Common Cold
+13,Female,6,1,1,0,1,1,1,1,0,0,0,0,0,0,Common Cold
+24,Female,7,0,0,0,0,1,0,0,1,1,1,1,1,0,Gastroenteritis
+41,Male,3,1,0,0,0,1,0,1,1,1,1,1,1,0,Gastroenteritis
+18,Male,5,0,0,0,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+12,Male,4,0,0,0,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+59,Male,10,0,0,0,0,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+22,Other,8,0,0,0,0,0,0,1,1,0,0,0,0,0,Migraine
+6,Female,10,1,0,0,0,0,0,1,0,0,0,1,1,0,Flu-like Illness
+60,Female,8,0,1,0,1,0,0,0,0,0,1,0,0,0,Common Cold
+36,Male,2,1,0,1,0,0,0,0,0,0,0,1,1,0,Flu-like Illness
+46,Male,6,0,0,0,0,0,0,0,1,1,1,0,0,0,Gastroenteritis
+1,Male,1,0,0,0,1,0,1,1,0,0,0,0,0,0,Seasonal Allergy
+16,Female,10,0,1,0,0,0,0,1,1,0,0,0,0,0,Migraine
+65,Female,2,1,0,1,1,0,0,1,0,1,0,1,1,0,Flu-like Illness
+12,Female,8,0,0,0,0,0,0,1,1,0,0,0,0,0,Gastroenteritis
+46,Male,1,0,0,0,0,0,0,1,1,0,0,1,1,0,Gastroenteritis
+10,Male,5,0,0,0,1,1,0,0,0,0,0,0,0,0,Seasonal Allergy
+38,Male,8,0,0,0,1,1,1,0,0,0,0,0,1,0,Seasonal Allergy
+45,Male,7,0,0,0,0,0,0,1,1,0,0,0,0,0,Migraine
+1,Female,10,0,0,0,0,0,0,0,1,0,1,0,0,0,Gastroenteritis
+1,Male,10,1,1,1,1,0,0,0,0,0,0,1,0,0,Flu-like Illness
+37,Male,3,1,0,0,0,0,0,0,1,1,1,0,1,0,Gastroenteritis
+29,Female,8,1,0,1,0,0,0,0,1,0,0,1,1,0,Flu-like Illness
+21,Male,2,1,0,0,1,0,0,0,0,0,0,0,0,0,Common Cold
+61,Female,8,0,0,0,0,0,0,1,0,1,0,0,1,1,Migraine
+31,Male,5,0,0,0,0,0,0,1,1,0,0,0,0,1,Migraine
+55,Male,5,0,0,0,0,0,0,1,1,0,0,0,0,0,Migraine
+26,Male,6,0,0,1,0,0,0,1,0,0,0,0,0,1,Common Cold
+39,Male,10,0,0,0,0,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+27,Male,6,0,0,0,0,0,0,1,1,0,0,0,1,1,Migraine
+29,Female,2,1,0,0,0,1,0,1,1,1,1,0,1,0,Gastroenteritis
+54,Female,4,0,0,0,0,0,0,1,0,1,1,0,0,0,Gastroenteritis
+35,Other,4,1,0,0,1,1,0,1,0,1,0,0,1,0,Flu-like Illness
+18,Male,5,0,0,0,0,0,0,1,0,0,0,0,1,1,Migraine
+52,Female,2,1,0,0,1,0,0,1,0,0,0,1,1,0,Flu-like Illness
+55,Male,8,1,0,0,0,0,0,0,0,0,0,1,0,0,Flu-like Illness
+26,Male,10,0,0,0,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+21,Male,4,0,1,0,1,1,0,0,0,0,0,0,0,0,Seasonal Allergy
+35,Other,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Migraine
+35,Male,1,0,0,0,0,0,0,0,1,0,0,0,0,0,Gastroenteritis
+38,Male,2,0,0,0,0,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+37,Male,6,0,0,0,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+33,Male,5,0,0,0,0,0,0,1,1,0,0,0,0,1,Migraine
+18,Female,2,0,0,0,0,1,0,0,0,0,0,0,0,0,Seasonal Allergy
+17,Female,9,0,0,0,0,0,0,0,1,0,1,0,1,0,Gastroenteritis
+42,Male,5,0,0,0,1,1,1,0,0,0,0,0,1,0,Seasonal Allergy
+37,Female,5,0,0,0,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+22,Male,5,0,1,0,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+1,Male,1,1,0,0,0,0,0,0,0,1,1,1,0,0,Gastroenteritis
+32,Female,1,0,1,1,0,0,0,1,1,0,0,0,0,1,Migraine
+28,Female,1,0,0,0,0,0,0,1,0,0,0,0,0,1,Migraine
+43,Female,3,0,0,0,1,0,1,0,0,0,0,0,1,0,Seasonal Allergy
+51,Female,2,0,0,0,0,0,0,1,1,0,0,0,0,1,Migraine
+14,Male,6,1,0,0,0,0,0,0,1,1,1,1,1,0,Gastroenteritis
+12,Female,5,1,1,0,0,0,0,1,1,0,0,1,1,0,Flu-like Illness
+9,Female,5,0,0,0,0,0,0,1,1,0,0,0,1,1,Migraine
+52,Male,10,0,0,0,0,0,0,1,0,0,0,0,1,1,Migraine
+14,Female,8,0,0,0,0,0,0,0,1,0,0,0,1,1,Migraine
+29,Female,8,0,0,0,0,0,0,1,1,0,0,0,0,0,Migraine
+48,Male,4,0,0,0,1,1,1,0,1,0,0,0,0,0,Seasonal Allergy
+1,Male,4,0,0,0,0,0,0,1,0,1,1,0,1,0,Gastroenteritis
+31,Female,8,0,0,0,0,1,0,0,0,0,0,0,0,0,Seasonal Allergy
+18,Female,10,1,0,0,0,0,0,1,0,0,0,1,1,0,Flu-like Illness
+18,Other,8,0,0,0,0,1,0,1,0,1,1,0,1,1,Gastroenteritis
+18,Female,7,1,1,1,1,0,0,0,0,0,0,0,0,0,Common Cold
+42,Male,1,0,1,1,1,0,0,0,0,1,0,0,0,0,Common Cold
+15,Female,4,1,0,0,0,0,0,1,1,0,0,0,0,0,Migraine
+52,Male,2,0,0,0,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+20,Female,4,0,0,0,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+27,Female,5,0,0,0,1,0,0,1,1,0,0,0,0,0,Migraine
+25,Female,9,0,0,0,0,1,0,1,0,0,0,1,1,0,Flu-like Illness
+27,Female,1,0,1,0,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+49,Female,6,0,0,0,0,0,0,0,1,0,1,0,0,0,Gastroenteritis
+18,Male,3,0,0,0,1,0,0,1,0,0,0,1,1,0,Flu-like Illness
+17,Other,7,1,1,0,1,0,0,1,1,0,0,1,1,0,Flu-like Illness
+27,Female,3,0,1,1,1,0,0,0,0,0,0,1,0,0,Common Cold
+51,Female,3,0,1,0,0,0,0,0,0,0,0,1,1,1,Flu-like Illness
+19,Female,10,1,0,0,0,0,0,0,1,1,0,0,1,0,Gastroenteritis
+34,Male,7,0,0,0,0,1,1,0,0,0,0,0,1,0,Seasonal Allergy
+62,Male,7,1,1,0,0,0,0,0,1,0,0,1,1,0,Flu-like Illness
+24,Male,4,0,1,1,0,0,0,1,0,0,0,0,0,0,Common Cold
+21,Male,3,0,1,1,1,0,0,1,1,0,1,0,0,0,Common Cold
+50,Male,7,1,0,0,0,0,0,1,1,0,1,0,0,0,Gastroenteritis
+25,Female,9,0,1,0,1,0,0,0,1,0,1,1,1,0,Flu-like Illness
+64,Male,5,0,0,0,0,0,0,1,0,1,0,0,1,1,Migraine
+42,Female,5,0,0,0,0,0,0,1,1,0,0,0,0,0,Gastroenteritis
+26,Other,2,0,0,0,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+21,Male,7,0,0,0,0,0,0,0,1,0,0,0,1,0,Gastroenteritis
+19,Other,8,0,0,0,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+10,Male,8,0,0,0,0,0,0,1,1,0,0,0,0,1,Migraine
+11,Female,10,1,1,1,0,0,0,1,0,0,0,1,1,0,Flu-like Illness
+36,Male,5,1,1,1,0,1,0,1,0,0,0,0,0,0,Common Cold
+30,Female,6,1,1,0,0,0,0,1,1,0,0,0,0,1,Migraine
+22,Female,8,0,0,0,1,1,0,0,0,0,0,0,0,0,Seasonal Allergy
+43,Female,5,0,0,0,1,0,0,0,0,0,0,0,0,0,Seasonal Allergy
+30,Male,8,0,0,0,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+7,Female,7,0,0,0,0,0,0,0,1,1,0,0,1,0,Gastroenteritis
+47,Male,1,1,0,0,0,0,0,1,1,0,0,0,1,1,Migraine
+16,Female,2,0,0,0,0,0,0,1,0,1,0,0,0,0,Migraine
+10,Female,2,0,1,0,0,0,1,0,0,0,1,0,0,0,Common Cold
+17,Female,8,0,1,1,1,1,0,0,0,0,0,0,0,0,Common Cold
+38,Male,3,0,0,1,0,0,0,1,1,1,1,1,0,0,Gastroenteritis
+61,Female,1,0,0,0,0,0,0,0,1,1,1,1,0,0,Gastroenteritis
+55,Male,2,1,0,1,1,0,0,0,0,0,1,1,1,0,Flu-like Illness
+49,Male,5,0,0,1,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+15,Male,7,0,0,0,0,0,0,1,1,0,0,0,1,1,Migraine
+21,Female,10,0,0,0,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+18,Female,3,0,0,0,1,1,1,0,0,0,0,0,1,0,Seasonal Allergy
+53,Female,10,1,1,0,0,1,0,1,0,0,0,1,1,0,Flu-like Illness
+34,Female,3,1,1,1,0,0,0,0,0,0,0,1,1,0,Flu-like Illness
+6,Female,7,1,1,1,1,0,0,0,0,0,0,0,0,0,Common Cold
+39,Female,5,1,1,1,0,0,0,1,0,0,0,1,1,0,Flu-like Illness
+15,Female,9,0,0,0,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+36,Female,6,0,1,1,1,0,0,0,0,0,0,0,1,0,Common Cold
+21,Male,5,1,0,0,0,0,0,1,0,0,0,1,0,1,Migraine
+9,Male,10,1,1,0,1,0,0,0,0,0,0,0,0,0,Common Cold
+25,Female,9,0,0,0,0,0,0,0,1,0,1,0,0,0,Gastroenteritis
+34,Female,2,1,0,0,0,0,0,1,0,1,1,0,1,0,Gastroenteritis
+16,Female,5,1,0,0,0,0,0,0,1,1,1,1,0,0,Gastroenteritis
+25,Female,2,0,0,0,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+36,Female,10,0,0,0,0,0,0,1,1,0,0,0,1,1,Migraine
+31,Female,4,0,0,0,0,0,0,1,1,0,0,0,1,1,Migraine
+10,Female,10,0,0,0,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+10,Male,10,0,0,0,0,0,0,1,0,0,0,0,0,0,Migraine
+39,Female,3,0,0,0,0,0,0,1,1,1,0,0,0,0,Migraine
+43,Male,3,0,1,0,0,0,0,1,1,0,0,1,0,1,Migraine
+27,Female,7,0,1,1,1,1,0,0,0,0,0,0,1,0,Common Cold
+42,Female,1,1,0,1,0,0,0,0,0,0,0,1,0,0,Flu-like Illness
+29,Male,1,1,1,1,0,0,0,1,0,0,0,1,1,0,Flu-like Illness
+1,Male,2,1,1,1,0,0,0,1,0,0,0,1,1,0,Common Cold
+42,Male,5,1,0,0,0,0,0,1,0,1,0,1,0,0,Flu-like Illness
+52,Male,9,0,0,0,0,0,0,1,1,0,0,1,0,1,Migraine
+25,Male,5,1,0,0,0,0,0,0,0,0,0,1,1,0,Flu-like Illness
+27,Male,5,0,0,1,0,0,0,1,1,0,0,0,1,1,Migraine
+50,Male,4,1,0,0,0,0,0,1,1,1,1,1,0,0,Gastroenteritis
+5,Female,9,0,0,0,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+30,Other,5,0,0,0,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+39,Male,5,0,1,0,0,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+19,Female,6,0,0,0,0,0,0,0,1,0,1,0,1,0,Gastroenteritis
+9,Female,1,0,0,0,0,0,0,1,1,0,0,0,0,0,Migraine
+23,Male,9,1,1,0,0,0,0,0,0,0,0,1,1,0,Flu-like Illness
+4,Male,1,0,0,1,0,0,0,0,0,0,0,0,0,0,Common Cold
+29,Female,2,0,0,0,1,1,0,0,0,0,0,0,0,0,Seasonal Allergy
+48,Female,1,0,0,1,1,0,0,1,0,0,0,0,1,0,Common Cold
+55,Male,2,0,1,1,1,1,0,0,0,0,0,0,0,0,Common Cold
+39,Male,4,0,0,0,1,1,0,0,0,0,0,0,0,0,Seasonal Allergy
+1,Male,1,0,0,0,1,0,0,0,0,0,0,0,1,0,Common Cold
+32,Female,5,1,0,0,0,1,0,0,0,0,0,1,1,0,Flu-like Illness
+27,Male,9,1,1,1,1,0,0,0,1,0,0,1,1,0,Common Cold
+27,Male,1,0,0,0,1,1,1,0,0,0,0,1,0,0,Seasonal Allergy
+37,Female,5,0,0,0,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+45,Female,1,0,1,0,0,1,0,1,0,0,0,1,1,0,Flu-like Illness
+44,Female,5,0,0,0,1,1,1,0,0,0,0,1,0,0,Seasonal Allergy
+65,Female,10,0,0,0,0,0,0,1,1,0,0,0,0,1,Migraine
+40,Female,6,0,0,1,1,0,0,0,0,0,0,1,1,0,Flu-like Illness
+46,Female,5,1,0,1,1,0,1,0,0,0,0,0,0,0,Common Cold
+32,Female,9,1,0,0,0,0,0,1,1,0,1,1,0,0,Gastroenteritis
+22,Male,8,0,0,0,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+28,Male,10,1,1,1,1,0,0,1,0,0,0,0,1,0,Common Cold
+25,Male,2,0,0,0,0,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+47,Female,8,1,1,1,0,0,0,1,0,1,0,1,1,0,Flu-like Illness
+37,Male,4,0,1,0,1,1,1,1,0,0,0,0,0,0,Common Cold
+25,Female,5,1,1,0,0,0,0,0,0,0,0,1,0,0,Flu-like Illness
+44,Female,8,0,0,1,0,1,0,0,0,0,0,0,0,0,Common Cold
+41,Female,10,0,0,0,0,0,0,0,1,0,1,0,0,0,Gastroenteritis
+32,Male,1,1,0,0,1,1,1,0,0,0,0,0,0,0,Common Cold
+53,Female,5,0,1,1,1,0,0,0,0,0,0,0,0,0,Common Cold
+30,Male,4,0,0,0,1,1,1,0,0,0,0,0,1,0,Seasonal Allergy
+41,Female,8,0,0,0,1,0,0,0,1,1,0,0,1,0,Gastroenteritis
+32,Male,8,0,0,0,0,0,0,1,1,0,0,0,0,1,Migraine
+55,Female,5,1,0,1,0,0,0,0,0,0,0,1,0,0,Flu-like Illness
+30,Female,9,1,0,1,0,0,0,1,0,0,0,1,0,0,Flu-like Illness
+37,Other,8,0,0,0,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+29,Male,3,0,0,1,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+30,Female,7,0,0,0,0,0,0,1,1,1,1,0,1,0,Gastroenteritis
+51,Male,5,0,1,0,1,0,0,0,0,0,0,0,0,0,Common Cold
+40,Female,3,0,0,1,1,1,0,1,0,0,0,0,0,0,Common Cold
+28,Male,6,0,0,0,0,0,0,1,1,0,0,1,0,1,Migraine
+25,Female,10,0,0,0,0,0,0,1,0,0,0,0,1,0,Migraine
+28,Female,8,0,0,0,0,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+16,Male,10,0,0,1,1,0,1,0,0,0,0,0,0,0,Common Cold
+17,Male,4,1,1,1,1,1,0,0,0,0,0,0,1,0,Common Cold
+26,Female,2,0,0,0,0,1,1,0,0,0,0,0,1,0,Seasonal Allergy
+47,Female,5,1,1,1,0,0,0,1,1,0,0,1,1,0,Flu-like Illness
+25,Male,4,0,0,0,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+48,Male,8,0,0,0,0,0,0,1,1,0,0,0,1,1,Migraine
+34,Female,1,0,0,0,0,0,0,0,1,0,0,1,0,0,Migraine
+16,Female,9,0,1,1,1,0,0,1,0,0,0,0,0,0,Common Cold
+28,Male,2,0,0,0,1,1,1,0,0,0,0,0,1,0,Seasonal Allergy
+38,Female,7,0,0,0,0,0,0,1,1,0,0,0,1,1,Migraine
+32,Female,4,1,0,0,0,0,0,1,1,0,0,1,0,0,Flu-like Illness
+15,Female,10,0,1,1,1,0,0,0,0,0,0,1,1,0,Common Cold
+45,Female,7,1,0,1,0,0,0,0,0,0,0,1,1,0,Flu-like Illness
+24,Female,1,0,1,0,1,0,0,0,0,0,0,0,1,0,Common Cold
+23,Male,6,0,0,0,0,0,0,1,1,0,0,1,1,1,Migraine
+29,Female,1,0,0,0,0,0,0,0,0,0,0,1,1,0,Flu-like Illness
+25,Female,9,1,0,0,1,1,0,0,0,0,0,0,0,0,Seasonal Allergy
+39,Male,7,0,0,0,0,0,0,1,1,0,0,0,1,1,Migraine
+47,Male,4,0,0,0,0,0,0,1,1,0,0,0,0,0,Migraine
+30,Male,8,1,0,0,1,1,0,0,0,0,0,0,0,0,Seasonal Allergy
+33,Female,8,0,0,0,0,0,0,1,1,0,0,0,1,1,Migraine
+22,Female,2,1,1,0,0,1,0,0,0,0,0,0,1,0,Flu-like Illness
+36,Female,8,1,0,1,0,0,0,1,0,0,0,0,1,0,Flu-like Illness
+11,Male,9,0,0,0,0,0,1,0,0,1,0,0,0,0,Seasonal Allergy
+10,Female,10,1,1,1,0,0,0,0,0,0,0,0,0,0,Common Cold
+47,Male,6,0,1,1,1,1,0,0,0,0,0,0,0,0,Common Cold
+17,Male,3,0,1,1,0,0,0,1,0,0,0,0,0,1,Common Cold
+45,Male,10,0,1,1,1,0,0,1,0,0,0,0,0,0,Common Cold
+12,Female,3,0,0,0,0,0,0,1,0,0,0,0,1,1,Migraine
+39,Male,4,0,0,0,0,0,0,0,0,0,0,0,1,0,Gastroenteritis
+40,Female,1,1,0,1,1,0,0,1,0,1,0,1,0,0,Flu-like Illness
+57,Male,3,0,0,0,0,0,0,1,1,0,0,0,0,1,Migraine
+7,Female,5,0,1,1,1,0,1,1,0,0,0,1,1,0,Common Cold
+16,Female,6,0,0,0,1,1,1,0,0,0,0,0,0,0,Seasonal Allergy
+14,Female,5,0,0,0,0,0,0,0,1,0,0,1,0,0,Gastroenteritis
+38,Female,10,0,0,0,1,1,1,0,0,0,0,0,1,0,Seasonal Allergy
+34,Female,4,0,0,0,0,0,0,1,1,0,0,0,0,1,Migraine
+29,Female,1,0,0,0,0,0,0,1,0,0,0,0,0,1,Migraine
+28,Female,3,0,0,1,1,1,0,0,0,0,0,0,0,0,Common Cold
+50,Male,4,1,0,0,0,0,0,0,1,0,0,1,0,0,Gastroenteritis
+45,Male,5,0,0,0,0,1,0,0,0,0,0,0,1,1,Seasonal Allergy
+31,Male,8,0,0,0,1,1,0,0,0,0,0,0,0,0,Seasonal Allergy
+43,Male,9,1,0,0,0,0,0,0,0,0,0,1,1,0,Flu-like Illness
+27,Female,7,0,0,1,1,0,0,0,0,0,0,0,0,0,Common Cold
+29,Male,8,0,1,1,1,0,0,1,0,0,0,0,0,0,Common Cold
+73,Male,6,1,0,0,0,1,0,1,0,0,0,1,1,0,Flu-like Illness
+51,Male,4,1,0,0,0,0,0,0,0,0,0,0,0,0,Common Cold
+42,Other,8,1,1,0,0,0,0,0,0,0,1,1,1,0,Flu-like Illness
+34,Male,6,0,0,0,1,1,0,0,0,0,0,0,0,1,Seasonal Allergy
